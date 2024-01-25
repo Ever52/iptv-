@@ -11,8 +11,8 @@
 | 5 | [BD]newtv家庭剧场[ipv6] | [[BD]newtv家庭剧场[ipv6]](https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8) |
 | 6 | [BD]newtv海外剧场 | [[BD]newtv海外剧场](https://epg.pw/stream/b314ebcd13fbec4a42a56d423398e032e62e662a888437a30c5847b6162a409f.m3u8) |
 | 7 | [BD]newtv精品大剧[ipv6] | [[BD]newtv精品大剧[ipv6]](https://epg.pw/stream/77f3dfac96f46b8db4bab743ef691404ac96b99f59c539a6c573215f57588360.m3u8) |
-| 8 | [BD]newtv精品纪录 | [[BD]newtv精品纪录](https://epg.pw/stream/3745626b332353d3a3b029f2c86d2be6025b392c11261585cee511bd1dffdf63.m3u8) |
-| 9 | [BD]newtv精品体育[ipv6] | [[BD]newtv精品体育[ipv6]](https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8) |
+| 8 | [BD]newtv精品纪录[ipv6] | [[BD]newtv精品纪录[ipv6]](https://epg.pw/stream/e257d9addea5a06a15a971f5c617c2fe1f35ddd1768e58d866359da4a3a93c81.m3u8) |
+| 9 | [BD]newtv精品体育 | [[BD]newtv精品体育](https://epg.pw/stream/f59dbe75bd9770b9ee8e92a31bfd6eebc469fe0f5e6b50abe238619d0f1e154e.m3u8) |
 | 10 | [BD]newtv超级体育 | [[BD]newtv超级体育](https://epg.pw/stream/7ac145fac6fc014139bdf406dd06f84eca22d725df09e6a388dc910bbd482f45.m3u8) |
 | 11 | [BD]newtv军事评论[ipv6] | [[BD]newtv军事评论[ipv6]](https://epg.pw/stream/a97767f126f84edb52e8344d91366034de22cd1beb45310cdf8cc368205421c1.m3u8) |
 | 12 | [BD]newtv金牌综艺 | [[BD]newtv金牌综艺](https://epg.pw/stream/586d924c81ab58b28903becf0036e3c03d74619dc69ed0d6e2f5f38484ff3dd0.m3u8) |
@@ -148,4 +148,4 @@
 | 142 | [BD]黑龙江都市[ipv6] | [[BD]黑龙江都市[ipv6]](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
 | 143 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 
-Updated at **Wed Jan 24 2024 08:29:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 25 2024 00:31:40 GMT+0000 (Coordinated Universal Time)**
