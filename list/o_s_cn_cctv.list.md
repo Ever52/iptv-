@@ -4,8 +4,8 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV+ 1 (600p) | [CCTV+ 1 (600p)](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
-| 2 | CCTV+ 2 (600p) | [CCTV+ 2 (600p)](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
+| 1 | CCTV+ 1 (600p) [Not 24/7] | [CCTV+ 1 (600p) [Not 24/7]](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
+| 2 | CCTV+ 2 (600p) [Not 24/7] | [CCTV+ 2 (600p) [Not 24/7]](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
 | 3 | CCTV-1综合 (1080p) | [CCTV-1综合 (1080p)](https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8) |
 | 4 | CCTV-2财经 (1080p) | [CCTV-2财经 (1080p)](https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8) |
 | 5 | CCTV-4 America (1080p) | [CCTV-4 America (1080p)](https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8) |
@@ -19,4 +19,4 @@
 | 13 | CCTV-10科教 (1080p) | [CCTV-10科教 (1080p)](https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8) |
 | 14 | CCTV-13新闻 (1080p) | [CCTV-13新闻 (1080p)](https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8) |
 
-Updated at **Sat Feb 03 2024 00:29:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 03 2024 06:11:05 GMT+0000 (Coordinated Universal Time)**
