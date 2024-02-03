@@ -1,22 +1,23 @@
 import fs from "fs";
 import path from "path";
-
-import { handle_m3u } from "./sources";
+import type { TEPGSource } from "../types"
+import { handle_m3u, get_from_info } from "../utils"
 
 export interface IREADMESource {
-  name: string;
-  f_name: string;
-  count?: number | undefined;
+  name: string
+  f_name: string
+  count?: number | undefined
 }
 
-export type TREADMESources = IREADMESource[];
+export type TREADMESources = IREADMESource[]
+export type TREADMEEPGSources = TEPGSource[]
 
 export const updateChannelList = (
   name: string,
   f_name: string,
   m3u: string
 ) => {
-  const list_temp_p = path.join(path.resolve(), "LIST.temp.md");
+  const list_temp_p = path.join(path.resolve(), ".readme", "LIST.temp.md");
   const list = fs.readFileSync(list_temp_p, "utf8").toString();
 
   const m3uArray = handle_m3u(m3u);
@@ -47,7 +48,7 @@ export const updateChannelList = (
         .join("\n")}\n\nUpdated at **${new Date()}**`
     );
 
-  const list_p = path.join(path.resolve(), "m3u", "list");
+  const list_p = path.join(path.resolve(), "streams", "list");
 
   if (!fs.existsSync(list_p)) {
     fs.mkdirSync(list_p);
@@ -60,28 +61,25 @@ export const updateReadme = (
   sources: TREADMESources,
   counts: Array<number | undefined>
 ) => {
-  const readme_temp_p = path.join(path.resolve(), "README.temp.md");
+  const readme_temp_p = path.join(path.resolve(), ".readme", "README.temp.md");
   const readme = fs.readFileSync(readme_temp_p, "utf8").toString();
 
   const after = readme.replace(
     "<!-- channels_here -->",
     `${sources
       ?.map(
-          (d, idx) =>
-          `| ${d.name} | <https://m3u.vodtv.cn/${
-            d.f_name
-          }.m3u> <br> <https://m3u.vodtv.cn/txt/${d.f_name}.txt> | [List for ${
-            d.name
-          }](https://m3u.vodtv.cn/list/${d.f_name}.list) | ${
-            counts[idx] === undefined ? "update failed" : counts[idx]
+        (d, idx) =>
+          `| ${d.name} | <https://m3u.vodtv.cn/${d.f_name
+          }.m3u> <br> <https://m3u.vodtv.cn/txt/${d.f_name}.txt> | [List for ${d.name
+          }](https://m3u.vodtv.cn/list/${d.f_name}.list) | ${counts[idx] === undefined ? "update failed" : counts[idx]
           } |`
       )
       .join("\n")}\n\nUpdated at **${new Date()}**`
   );
 
-  if (!fs.existsSync(path.join(path.resolve(), "m3u"))) {
-    fs.mkdirSync(path.join(path.resolve(), "m3u"));
+  if (!fs.existsSync(path.join(path.resolve(), "streams"))) {
+    fs.mkdirSync(path.join(path.resolve(), "streams"));
   }
 
-  fs.writeFileSync(path.join(path.resolve(), "m3u", "README.md"), after);
+  fs.writeFileSync(path.join(path.resolve(), "streams", "README.md"), after);
 };
