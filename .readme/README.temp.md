@@ -112,7 +112,6 @@
     </tr>
   </tbody>
 </table>
-</table>
 
 ### 镜像cdn.statically.io
 
@@ -141,7 +140,6 @@
       <td>https://cdn.statically.io/gh/vodtv/iptv@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
-</table>
 </table>
 
 ### 原网址前加ghproxy.net
