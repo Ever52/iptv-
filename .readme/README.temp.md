@@ -2,7 +2,7 @@
 <img src="https://vodtv.gitee.io/img/iptv/logo.png" height="200"/>
 <h1 align="center">IPTV -网络电视</h1>
 <h3>收集来自世界各地的公开可用的IPTV频道</h3>
-<h3>🔗 https://vodtv.cn/iptv</h3>
+<h3>🔗 https://m3u.vodtv.cn</h3>
 </div>
 
 ---
@@ -25,7 +25,9 @@
 <!-- channels_here -->
 
 ## 加速工具
-- 本站 m3u.vodtv.cn
+
+### 本站 m3u.vodtv.cn
+
 <table>
   <thead>
     <tr>
@@ -53,7 +55,8 @@
   </tbody>
 </table>
 
-- 镜像cdn.jsdelivr.net
+### 镜像cdn.jsdelivr.net
+
 <table>
   <thead>
     <tr>
@@ -81,7 +84,8 @@
   </tbody>
 </table>
 
-- 镜像cdn.gitmirror.com
+### 镜像cdn.gitmirror.com
+
 <table>
   <thead>
     <tr>
@@ -110,7 +114,8 @@
 </table>
 </table>
 
-- 镜像cdn.statically.io
+### 镜像cdn.statically.io
+
 <table>
   <thead>
     <tr>
@@ -139,7 +144,8 @@
 </table>
 </table>
 
-- 原网址前加ghproxy.net
+### 原网址前加ghproxy.net
+
 <table>
   <thead>
     <tr>

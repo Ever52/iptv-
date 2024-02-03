@@ -9,7 +9,7 @@ export interface ISource {
   ) => [string, number]
 }
 
-interface IREADMEMirrorSite {
+export interface IREADMEMirrorSite {
   protocol: "http" | "https"
   url: string
   frequence: string

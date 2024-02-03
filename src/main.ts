@@ -1,9 +1,21 @@
 import { hrtime } from "process"
-import { writeTvBoxJson } from "./components/tvbox"
 import { updateChannelsJson } from "./components/channels"
-import { cleanFiles, getContent, mergeSources, mergeTxts, writeEpgXML, writeM3u, writeM3uToTxt, writeSources } from "./components/file";
+
+import {
+  cleanFiles,
+  getContent,
+  mergeSources,
+  mergeTxts,
+  writeEpgXML,
+  writeM3u,
+  writeM3uToTxt,
+  writeSources,
+} from "./components/file";
+
+
+import { writeTvBoxJson } from "./components/tvbox"
 import { updateChannelList, updateReadme } from "./components/readme";
-import { sources, filter } from "./api";
+import { sources } from "./api";
 import { Collector } from "./utils"
 import { epgs_sources } from "./api/epgs"
 import { updateByRollback, updateEPGByRollback } from "./components/rollback"
