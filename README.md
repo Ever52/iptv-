@@ -30,7 +30,7 @@
 | YanG_1989 Adult | <https://m3u.vodtv.cn/y_a.m3u> <br> <https://m3u.vodtv.cn/txt/y_a.txt> | [List for YanG_1989 Adult](https://m3u.vodtv.cn/list/y_a.list) | normal,1210 |
 | joevess/IPTV home | <https://m3u.vodtv.cn/j_home.m3u> <br> <https://m3u.vodtv.cn/txt/j_home.txt> | [List for joevess/IPTV home](https://m3u.vodtv.cn/list/j_home.list) | normal,51 |
 | joevess/IPTV iptv | <https://m3u.vodtv.cn/j_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/j_iptv.txt> | [List for joevess/IPTV iptv](https://m3u.vodtv.cn/list/j_iptv.list) | normal,486 |
-| Meroser/IPTV IPTV | <https://m3u.vodtv.cn/m_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/m_iptv.txt> | [List for Meroser/IPTV IPTV](https://m3u.vodtv.cn/list/m_iptv.list) | normal,214 |
+| Meroser/IPTV IPTV | <https://m3u.vodtv.cn/m_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/m_iptv.txt> | [List for Meroser/IPTV IPTV](https://m3u.vodtv.cn/list/m_iptv.list) | normal,213 |
 | iptv.org All | <https://m3u.vodtv.cn/o_all.m3u> <br> <https://m3u.vodtv.cn/txt/o_all.txt> | [List for iptv.org All](https://m3u.vodtv.cn/list/o_all.list) | normal,10036 |
 | iptv.org China | <https://m3u.vodtv.cn/o_cn.m3u> <br> <https://m3u.vodtv.cn/txt/o_cn.txt> | [List for iptv.org China](https://m3u.vodtv.cn/list/o_cn.list) | normal,484 |
 | iptv.org stream China | <https://m3u.vodtv.cn/o_s_cn.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn.txt> | [List for iptv.org stream China](https://m3u.vodtv.cn/list/o_s_cn.list) | normal,451 |
@@ -41,13 +41,13 @@
 | epg.pw China National | <https://m3u.vodtv.cn/cn_n.m3u> <br> <https://m3u.vodtv.cn/txt/cn_n.txt> | [List for epg.pw China National](https://m3u.vodtv.cn/list/cn_n.list) | normal,11 |
 | epg.pw China Country | <https://m3u.vodtv.cn/cn_c.m3u> <br> <https://m3u.vodtv.cn/txt/cn_c.txt> | [List for epg.pw China Country](https://m3u.vodtv.cn/list/cn_c.list) | normal,121 |
 | epg.pw China Province | <https://m3u.vodtv.cn/cn_p.m3u> <br> <https://m3u.vodtv.cn/txt/cn_p.txt> | [List for epg.pw China Province](https://m3u.vodtv.cn/list/cn_p.list) | normal,34 |
-| epg.pw All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for epg.pw All](https://m3u.vodtv.cn/list/all.list) | normal,1673 |
+| epg.pw All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for epg.pw All](https://m3u.vodtv.cn/list/all.list) | normal,1656 |
 | qwerttvv/Beijing-IPTV IPTV Unicom | <https://m3u.vodtv.cn/q_bj_iptv_unicom.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_unicom.txt> | [List for qwerttvv/Beijing-IPTV IPTV Unicom](https://m3u.vodtv.cn/list/q_bj_iptv_unicom.list) | normal,133 |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | <https://m3u.vodtv.cn/q_bj_iptv_unicom_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_unicom_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_unicom_m.list) | normal,133 |
 | qwerttvv/Beijing-IPTV IPTV Mobile | <https://m3u.vodtv.cn/q_bj_iptv_mobile.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile](https://m3u.vodtv.cn/list/q_bj_iptv_mobile.list) | normal,147 |
 | qwerttvv/Beijing-IPTV IPTV Mobile Multicast | <https://m3u.vodtv.cn/q_bj_iptv_mobile_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_mobile_m.list) | normal,130 |
 
-Updated at **Sun Feb 04 2024 00:31:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 04 2024 08:07:18 GMT+0000 (Coordinated Universal Time)**
 
 ## 加速工具
 
