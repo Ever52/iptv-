@@ -48,7 +48,7 @@
 | 42 | [VGA]东北戏曲频道 | [[VGA]东北戏曲频道](https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8) |
 | 43 | [BD]云南娱乐 | [[BD]云南娱乐](https://epg.pw/stream/d21c80205971396e46fdcd74fce53a0310fdf32ea0e04b91ea5c414957232d11.m3u8) |
 | 44 | [BD]云南都市 | [[BD]云南都市](https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8) |
-| 45 | [VGA]内蒙卫视 | [[VGA]内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
+| 45 | [SD]内蒙卫视 | [[SD]内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
 | 46 | [BD]刘德华 | [[BD]刘德华](https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv) |
 | 47 | [BD]北京生活 | [[BD]北京生活](https://epg.pw/stream/2ccff5570151d10d87cd087632b6179a5ceebbfed1dba291f5f51df88e62cbc2.ctv) |
 | 48 | [BD]北京纪实科教 | [[BD]北京纪实科教](https://epg.pw/stream/9417c17817ddd642f0f66770eb432d03d10e39e0e6d927d71de16c53529f1013.m3u8) |
@@ -103,7 +103,7 @@
 | 97 | [BD]纯享4k[ipv6] | [[BD]纯享4k[ipv6]](https://epg.pw/stream/b3308fab36d70257c4f8035b4d5fdf935be5aa7d894a1735f370ca3fb5368850.m3u8) |
 | 98 | [HD]绍兴公共频道 | [[HD]绍兴公共频道](https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8) |
 | 99 | [HD]绍兴文化影院 | [[HD]绍兴文化影院](https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8) |
-| 100 | [SD]老妖电影 | [[SD]老妖电影](https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv) |
+| 100 | [BD]老妖电影 | [[BD]老妖电影](https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv) |
 | 101 | [BD]聚鲨环球精选 | [[BD]聚鲨环球精选](https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv) |
 | 102 | [BD]舟山新闻综合 | [[BD]舟山新闻综合](https://epg.pw/stream/ca9727bb9f7ba55539357b8eb0f25c3497e325c9d53e2530818df07e213e3699.m3u8) |
 | 103 | [BD]茶频道 | [[BD]茶频道](https://epg.pw/stream/8c4eb92eda7720c4cab96d7844860b9e022c035ab2b6da85baf5e3352b276592.ctv) |
@@ -125,8 +125,6 @@
 | 119 | [BD]5+体育赛事 | [[BD]5+体育赛事](https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8) |
 | 120 | [BD]黑莓动画[ipv6] | [[BD]黑莓动画[ipv6]](https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8) |
 | 121 | [BD]黑莓电影[ipv6] | [[BD]黑莓电影[ipv6]](https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8) |
-| 122 | [VGA]黑龙江影视 | [[VGA]黑龙江影视](https://epg.pw/stream/305fbc43e5137ac3d2bcbc2a03e032737a15b3ec7d207356b45fe096e14e6ab4.m3u8) |
-| 123 | [VGA]黑龙江都市 | [[VGA]黑龙江都市](https://epg.pw/stream/26378dd955d409740dae6ca765d8d7ee8316fb22a55af9123f9ebad3efdac9f2.m3u8) |
-| 124 | [BD]龙江卫视[ipv6] | [[BD]龙江卫视[ipv6]](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
+| 122 | [BD]龙江卫视[ipv6] | [[BD]龙江卫视[ipv6]](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Sat Feb 10 2024 00:27:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 10 2024 08:07:10 GMT+0000 (Coordinated Universal Time)**
