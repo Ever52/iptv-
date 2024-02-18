@@ -1,7 +1,6 @@
 电影,#genre#
 [BD]chc动作电影[ipv6],https://epg.pw/stream/b8dfd242761b6471da5a06f188500dbb93ff307905c80d3c440b503252b24561.m3u8
-[BD]chc高清电影[ipv6],https://epg.pw/stream/4bf0157dd83a713cbe0e7d54da3dfb23bf86d76a81e00c303103633b547cd6de.m3u8
-[BD]newtv动作电影,https://epg.pw/stream/e94cc2f1cb9a47e959a80ae19baa1ce8e6e04e844dfcf65aa27b641d7ee467c7.m3u8
+[BD]chc高清电影[ipv6],https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 [BD]newtv家庭剧场,https://epg.pw/stream/9dbfd6b109c89e7116ac828be8ad37a39096e1c2ec54efe040476e53d89ee4a7.m3u8
 [BD]newtv潮妈辣婆[ipv6],https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
 [BD]newtv超级电视剧[ipv6],https://epg.pw/stream/cbb96741ec3cf4ec53c38206d00900573c2528364c958f8f4f8e99d9d7e32b30.m3u8
@@ -45,7 +44,7 @@
 [BD]北京纪实8k,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 [BD]广东体育,https://epg.pw/stream/d26840de961946e7425e433195853c3e8fc5797fbaf2944b4d1a9ddaa1df0d22.m3u8
 [SD]枣庄新闻,https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
-[HD]武汉文体 (480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
+[VGA]武汉文体 (480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
 [SD]陕西体育休闲[ipv6],https://epg.pw/stream/308ed1e9f6b62ee0cc23217c717ca5a985afef2920973fdab2e7178d46c05d18.m3u8
 
 其它,#genre#
@@ -81,7 +80,6 @@
 [BD]石家庄都市,https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8
 [SD]西安影视频道[ipv6],https://epg.pw/stream/3c779e61a9e6fbacb116888b009c976c2e240b36988802246dd890e28b080b99.m3u8
 [HD]象山新闻综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
-[HD]青海综合,https://epg.pw/stream/c40d7c36d261148fac9a1cc8d1d50e07f14a62e56b7eccea804abc7367472232.m3u8
 
 纪实,#genre#
 [BD]上海纪实人文[ipv6],https://epg.pw/stream/a39d2f506a1d61aff55547242c58f67499e74fd9cc0b6560f2cefd3409d4df29.m3u8
