@@ -231,4 +231,4 @@
 | 225 | 咪咕直播-41 | [咪咕直播-41](http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8) |
 | 226 | 咪咕直播-42 | [咪咕直播-42](http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8) |
 
-Updated at **Mon Feb 19 2024 08:09:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 20 2024 00:28:16 GMT+0000 (Coordinated Universal Time)**
