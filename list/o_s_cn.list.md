@@ -475,4 +475,4 @@
 | 469 | Fuping TV-2 | [Fuping TV-2](http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203) |
 | 470 | Fusung News TV | [Fusung News TV](http://stream8.jlntv.cn/fs/sd/live.m3u8) |
 
-Updated at **Wed Feb 21 2024 08:08:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 22 2024 00:28:50 GMT+0000 (Coordinated Universal Time)**
