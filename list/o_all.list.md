@@ -6380,7 +6380,7 @@
 | 6374 | REFLET TV (1080p) | [REFLET TV (1080p)](https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8) |
 | 6375 | Reforma TV (1080p) | [Reforma TV (1080p)](https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8) |
 | 6376 | Reformed 21 (1080p) [Not 24/7] | [Reformed 21 (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCQo_L_h_01NjLYiNHUnjEJw.m3u8) |
-| 6377 | ReggioTV (480p) [Not 24/7] | [ReggioTV (480p) [Not 24/7]](https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/chunklist.m3u8) |
+| 6377 | ReggioTV (480p) [Not 24/7] | [ReggioTV (480p) [Not 24/7]](https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8) |
 | 6378 | Regio8 TV (1080p) | [Regio8 TV (1080p)](https://ms7.mx-cd.net/dtv-10/91-475821/Regio8TV.smil/playlist.m3u8) |
 | 6379 | Regio90 TV (720p) | [Regio90 TV (720p)](https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8) |
 | 6380 | Régió TV (406p) | [Régió TV (406p)](http://tv.geniusnet.sk:8081/regiotv/pl.m3u8) |
@@ -7333,7 +7333,7 @@
 | 7327 | Takbeer TV (1080p) | [Takbeer TV (1080p)](https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8) |
 | 7328 | Talanga TV Canal 39 (480p) [Not 24/7] | [Talanga TV Canal 39 (480p) [Not 24/7]](https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8) |
 | 7329 | Talkin Live Classics TV (480p) | [Talkin Live Classics TV (480p)](https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8) |
-| 7330 | TalkTV (1080p) | [TalkTV (1080p)](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) |
+| 7330 | TalkTV (1080p) | [TalkTV (1080p)](https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8) |
 | 7331 | TAM TV (240p) | [TAM TV (240p)](https://tv.webtuya.com:3459/live/tammeridalive.m3u8) |
 | 7332 | Tamazight (360p) | [Tamazight (360p)](https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8) |
 | 7333 | Támesis TeVe (614p) [Not 24/7] | [Támesis TeVe (614p) [Not 24/7]](https://tvlatina.live:1936/8018/8018/playlist.m3u8) |
@@ -9580,12 +9580,12 @@
 | 9574 | УлПравда ТВ | [УлПравда ТВ](http://live-1.otcnet.ru/pravdatv/index.m3u8) |
 | 9575 | Уніaн | [Уніaн](http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) |
 | 9576 | Урал 24 (Челябинск) | [Урал 24 (Челябинск)](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8) |
-| 9577 | УТРК (720p) | [УТРК (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8) |
-| 9578 | УТРК Ала-Тоо 24 (720p) | [УТРК Ала-Тоо 24 (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:alatoo24.smil/playlist.m3u8) |
+| 9577 | УТРК (480p) [Not 24/7] | [УТРК (480p) [Not 24/7]](https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8) |
+| 9578 | УТРК Ала-Тоо 24 (480p) [Not 24/7] | [УТРК Ала-Тоо 24 (480p) [Not 24/7]](https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8) |
 | 9579 | УТРК Баластан (480p) [Not 24/7] | [УТРК Баластан (480p) [Not 24/7]](https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8) |
 | 9580 | УТРК Маданият (480p) [Not 24/7] | [УТРК Маданият (480p) [Not 24/7]](https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8) |
-| 9581 | УТРК Музыка (720p) | [УТРК Музыка (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:music.smil/playlist.m3u8) |
-| 9582 | УТРК Спорт (720p) | [УТРК Спорт (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8) |
+| 9581 | УТРК Музыка (480p) [Not 24/7] | [УТРК Музыка (480p) [Not 24/7]](https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8) |
+| 9582 | УТРК Спорт (480p) [Not 24/7] | [УТРК Спорт (480p) [Not 24/7]](https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8) |
 | 9583 | Феникс+Кино | [Феникс+Кино](http://82.209.197.187:8080/udp/239.0.100.101:1234) |
 | 9584 | Футбольный | [Футбольный](https://woobl.ru/hls987/Futbolniy_hd.m3u8) |
 | 9585 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
@@ -10058,4 +10058,4 @@
 | 10052 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10053 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Feb 25 2024 08:07:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 26 2024 00:30:17 GMT+0000 (Coordinated Universal Time)**
