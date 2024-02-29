@@ -477,4 +477,4 @@
 | 471 | Lasa TV | [Lasa TV](http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 472 | Xizang TV Tibetan | [Xizang TV Tibetan](http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Thu Feb 29 2024 00:28:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 29 2024 08:08:22 GMT+0000 (Coordinated Universal Time)**
