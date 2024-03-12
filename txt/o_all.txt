@@ -2301,6 +2301,7 @@ Clarity 4K (2160p),https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c19
 Classic Reels TV,https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/crt-h264.m3u8
 ClassicalFM,https://ythls.armelin.one/channel/UC_DweJsPH4mvcRU3aFwVtqg.m3u8
 Click TV (Coronel) (720p),https://v2.tustreaming.cl/clicktv/playlist.m3u8
+CLTV 36 (1080p) [Not 24/7],https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 Club TV (Santa Juana) (720p) [Not 24/7],https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 CMM TV (1080p) [Not 24/7],https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 CN3 Pinamar (720p) [Not 24/7],https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -8308,6 +8309,7 @@ Teledigital (240p) [Not 24/7],https://tv.portalexpress.es:3182/hybrid/play.m3u8
 Telemundo Corpus Christi,https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 Teleplay Sureste (720p),https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 Telerayo (1080p),https://s.emisoras.tv:8081/telerayo/index.m3u8
+TF1 (720p),https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/t1.m3u8
 The Grio (KCKS-LD8) (480p),https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 This is Bulgaria HD (1080p),https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 Tica TV+ (288p),https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
@@ -9975,6 +9977,7 @@ Star Channel,http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 Entertainment;General,#genre#
 América TeVé (720p),https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+DiaTV (1080p),https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 HOY TV开电视,https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8
 MCN6 (1080p) [Not 24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 Nossa TV (720p),https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
