@@ -6430,7 +6430,6 @@ KpopTV Play,http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 KRAL Pop TV (720p),https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 KRAL TV (720p),https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 Kronehit (1080p),https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-Kurdmax Music,http://31.14.40.139:1935/music/livestream/playlist.m3u8
 Kuriakos Music (1080p),http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 La 98.1 TV (720p) [Not 24/7],https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
 La Chilena TV,https://vdochile.com:3134/hybrid/play.m3u8
@@ -8508,6 +8507,7 @@ BRTV Kaku Childrens Channel [Not 24/7],http://office.gofaraway.top:888/udp/238.1
 Camp Spoopy (576p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 CBBC HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 CBeebies (Poland) (576p),https://cdn-nvm-chicago.lolokoko.tv/CBeebies.stream/playlist.m3u8
+CBeebies Asia (720p),http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 CBeebies HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 Chinola TV (480p),https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 Clan TVE (1080p),https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
@@ -9574,6 +9574,7 @@ Sony Six HD (1080p),http://103.81.104.118/hls/stream10.m3u8
 Sony Sports Ten 1 (1080p),https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 SOS Kanal Plus (720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 Sport En France (1080p),https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+Sport TV1,http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 Sportitalia 24 (720p),https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 Sportitalia Motori (720p),https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 Sportitalia SoloCalcio,https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
@@ -10192,6 +10193,7 @@ Cartoon Network FreeLive Latam 2 (720p),https://playout.cdn.cartoonnetwork.com.b
 Cartoon Network FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 Cartoon Network Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 Cartoon Network México (720p),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+Cartoon Network Russia (576p),http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 Cartoonito,http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 Cartoonito FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 Cartoonito FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
