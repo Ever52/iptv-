@@ -1303,7 +1303,7 @@
 | 1297 | C4 Televisión (720p) [Not 24/7] | [C4 Televisión (720p) [Not 24/7]](https://eu1.servers10.com:8081/8148/index.m3u8) |
 | 1298 | C5N (1080p) [Not 24/7] | [C5N (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8) |
 | 1299 | C8 | [C8](https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8) |
-| 1300 | C9N (480p) | [C9N (480p)](https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8) |
+| 1300 | C9N | [C9N](https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8) |
 | 1301 | C31 Melbourne (240p) | [C31 Melbourne (240p)](https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8) |
 | 1302 | C Channel (1080p) [Not 24/7] | [C Channel (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8) |
 | 1303 | C Malayalam TV (1080p) | [C Malayalam TV (1080p)](https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8) |
@@ -10220,4 +10220,4 @@
 | 10214 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10215 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sat Mar 16 2024 08:07:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 17 2024 00:31:35 GMT+0000 (Coordinated Universal Time)**
