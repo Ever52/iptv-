@@ -1252,7 +1252,7 @@
 | 1246 | BRT 2 (720p) [Not 24/7] | [BRT 2 (720p) [Not 24/7]](https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8) |
 | 1247 | BRT (360p) | [BRT (360p)](http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8) |
 | 1248 | BRTV (720p) | [BRTV (720p)](https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8) |
-| 1249 | BRTV Kaku Childrens Channel [Not 24/7] | [BRTV Kaku Childrens Channel [Not 24/7]](http://office.gofaraway.top:888/udp/238.125.2.216:5140) |
+| 1249 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8) |
 | 1250 | Bruno Masi TV (720p) | [Bruno Masi TV (720p)](https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8) |
 | 1251 | BS Asahi (544p) | [BS Asahi (544p)](http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03) |
 | 1252 | BS Fuji TV (544p) | [BS Fuji TV (544p)](http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06) |
@@ -10199,4 +10199,4 @@
 | 10193 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10194 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon Mar 18 2024 08:08:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 19 2024 00:28:56 GMT+0000 (Coordinated Universal Time)**
