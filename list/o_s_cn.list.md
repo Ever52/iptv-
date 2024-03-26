@@ -508,5 +508,6 @@
 | 502 | 山西影视 | [山西影视](http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8) |
 | 503 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
 | 504 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
+| 505 | Ando TV (576p) | [Ando TV (576p)](http://119.1.122.186:4022/rtp/238.255.2.189:5999) |
 
-Updated at **Mon Mar 25 2024 08:10:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 26 2024 00:28:42 GMT+0000 (Coordinated Universal Time)**
