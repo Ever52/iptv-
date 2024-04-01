@@ -2269,7 +2269,7 @@ Channel 8 (1080p) [Not 24/7],http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 Channel 9 (480p),http://183.89.246.119:8881/play/a07y/index.m3u8
 Channel 9 Melbourne (720p),https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 Channel 9 Sydney (720p),https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-Channel 13 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCevtg3pYdyr0EaWSAQMwUgA.m3u8
+Channel 13 [Not 24/7],https://stream.theyraonline.com/live/channel13@live/index.m3u8
 Channel 24 Saudi (720p),https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8
 Channel 44 (480p),https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 Channel Divya (720p),https://mcncdndigital.com/divyatv/index.fmp4.m3u8
@@ -6535,6 +6535,7 @@ Mas23 TV (1080p),https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
 Más FM 95.9 (720p),https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 Más Música TV (360p),https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 Master Show TV (360p),https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+Mastiii,https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 Maxima FM (720p) [Not 24/7],https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 Mayotte One TV (1080p),https://live.mytv.yt:3946/multi_web/play.m3u8
 MCM Top (Russia),http://live-3.otcnet.ru/mcmtop/index.m3u8
@@ -10118,6 +10119,7 @@ like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Tech & Co (1080p),https://ncdn-l
 ConCiencia TV (1080p) [Not 24/7],https://cloud.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
 Explosión Creativa (720p) [Not 24/7],https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 Hiperconectados TV,https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+Ilm va Tabiat (1080p),https://live.teleradiocom.tj/15/3m.m3u8
 Milennio TV (720p),https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 NASA TV (720p),http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 NASA TV ISS Views (480p) [Not 24/7],http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
@@ -10159,6 +10161,7 @@ Travel TV (576p),https://streamer103.neterra.tv/travel/live.m3u8
 Travel XP,https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 Turistik TV (720p),https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 TV Paraná Turismo (720p) [Not 24/7],http://200.189.113.201/hls/tve.m3u8
+TV Sayohi (1080p),https://live.teleradiocom.tj/16/3m.m3u8
 TVS Travel Network (720p) [Not 24/7],https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 Наша Сибирь (1080p),https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 
