@@ -7084,6 +7084,7 @@ DakarActu TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCG0t6XiAHui-z
 Dawn News (720p),https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
 DBC News (1080p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
 DD News (1080p),https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+like Gecko) Mobile/15E148",Deutsche Welle (480p),http://ott-cdn.ucom.am/s26/index.m3u8
 Di TV (1080p),https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
 Dighvijay (240p) [Not 24/7],https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 Digi 24 (576p),https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
@@ -7092,8 +7093,6 @@ DNews (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQC
 Dotto TV (720p),https://dotto.edvr.ro/live/index.m3u8
 Dunya News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8
 DW Arabic (1080p),https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-DW Deutsch (1080p),https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-DW Deutsch+ (1080p),https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW Español (1080p),https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 DZRH News TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
