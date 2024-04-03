@@ -7866,7 +7866,7 @@
 | 7860 | TGRT Belgesel TV (576p) | [TGRT Belgesel TV (576p)](https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8) |
 | 7861 | TGRT EU (576p) | [TGRT EU (576p)](https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8) |
 | 7862 | TGRT Haber (360p) [Not 24/7] | [TGRT Haber (360p) [Not 24/7]](https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8) |
-| 7863 | Thai Chaiyo (720p) | [Thai Chaiyo (720p)](http://183.89.246.119:8881/play/a0a4/index.m3u8) |
+| 7863 | Thai Chaiyo (720p) | [Thai Chaiyo (720p)](https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8) |
 | 7864 | Thai Nguyen TV (1080p) | [Thai Nguyen TV (1080p)](https://streaming.thainguyentv.vn/hls/livestream.m3u8) |
 | 7865 | Thai Parliament TV (1080p) [Not 24/7] | [Thai Parliament TV (1080p) [Not 24/7]](https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8) |
 | 7866 | Thai PBS (1080p) [Not 24/7] | [Thai PBS (1080p) [Not 24/7]](https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8) |
@@ -10228,4 +10228,4 @@
 | 10222 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10223 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Apr 02 2024 08:08:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 03 2024 00:29:08 GMT+0000 (Coordinated Universal Time)**

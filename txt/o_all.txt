@@ -4930,7 +4930,7 @@ TG4 (1080p),https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 TG Norba 24 (404p),https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 TGRT Belgesel TV (576p),https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 TGRT EU (576p),https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-Thai Chaiyo (720p),http://183.89.246.119:8881/play/a0a4/index.m3u8
+Thai Chaiyo (720p),https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 Thai PBS (1080p) [Not 24/7],https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 like Gecko) Chrome/81.0.4044.138 Safari/537.36",Thairath TV (720p),https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
 The Biggest Loser (1080p),https://lnc-biggest-loser.tubi.video/playlist.m3u8
