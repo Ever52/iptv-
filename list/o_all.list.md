@@ -317,7 +317,7 @@
 | 311 | ACTS TV (360p) | [ACTS TV (360p)](https://mediagh.us:19360/deliverancetv/deliverancetv.m3u8) |
 | 312 | ACTV | [ACTV](https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8) |
 | 313 | Ada Derana News (720p) [Not 24/7] | [Ada Derana News (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCCK3OZi788Ok44K97WAhLKQ.m3u8) |
-| 314 | ADA TV (720p) | [ADA TV (720p)](https://edge1.socialsmart.tv/adatv/bant1/playlist.m3u8) |
+| 314 | ADA TV (720p) | [ADA TV (720p)](https://yayin1.canlitv.day/live/kibrisadatv.stream/playlist.m3u8) |
 | 315 | ADB TV (1080p) | [ADB TV (1080p)](https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8) |
 | 316 | ADBN TV (576p) | [ADBN TV (576p)](https://webstreaming.viewmedia.tv/web_045/Stream/playlist.m3u8) |
 | 317 | Addis TV (720p) | [Addis TV (720p)](https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8) |
@@ -508,7 +508,7 @@
 | 502 | Al Wousta TV (1080p) | [Al Wousta TV (1080p)](https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8) |
 | 503 | Al Yaum TV (720p) | [Al Yaum TV (720p)](https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8) |
 | 504 | Al-Fady TV (1080p) [Not 24/7] | [Al-Fady TV (1080p) [Not 24/7]](https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8) |
-| 505 | Al-Iman TV (720p) | [Al-Iman TV (720p)](https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8) |
+| 505 | Al-Iman TV (720p) | [Al-Iman TV (720p)](https://tv.aliman.id/aliman/live.m3u8) |
 | 506 | Al-Jawadain TV (1080p) [Not 24/7] | [Al-Jawadain TV (1080p) [Not 24/7]](https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8) |
 | 507 | Al-MahdiTV (1080p) | [Al-MahdiTV (1080p)](https://stream.al-mahdi.tv/hls/1234.m3u8) |
 | 508 | Al-Naeem TV (576p) | [Al-Naeem TV (576p)](https://nl2.livekadeh.com/hls2/alnaeem.m3u8) |
@@ -10245,4 +10245,4 @@
 | 10239 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10240 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Apr 04 2024 08:09:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 05 2024 00:29:52 GMT+0000 (Coordinated Universal Time)**
