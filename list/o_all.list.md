@@ -6846,7 +6846,7 @@
 | 6840 | San Ignacio TV (720p) | [San Ignacio TV (720p)](https://amixtv.live:3753/live/sitvlive.m3u8) |
 | 6841 | San Isidro TV (720p) [Not 24/7] | [San Isidro TV (720p) [Not 24/7]](https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8) |
 | 6842 | San José TV (1080p) | [San José TV (1080p)](https://rtmp.info/sanjosetv/envivo/playlist.m3u8) |
-| 6843 | San Marino RTV (720p) | [San Marino RTV (720p)](https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8) |
+| 6843 | San Marino RTV (720p) | [San Marino RTV (720p)](https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8) |
 | 6844 | San Marino RTV Sport (720p) | [San Marino RTV Sport (720p)](https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8) |
 | 6845 | San Pedro TV (1080p) [Not 24/7] | [San Pedro TV (1080p) [Not 24/7]](https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8) |
 | 6846 | San Vito Televisión (720p) | [San Vito Televisión (720p)](https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8) |
@@ -10246,4 +10246,4 @@
 | 10240 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10241 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon Apr 08 2024 08:09:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 09 2024 00:29:49 GMT+0000 (Coordinated Universal Time)**

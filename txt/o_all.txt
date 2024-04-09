@@ -4405,7 +4405,7 @@ Salve TV (720p),https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_we
 Samaa TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8
 Samen1 TV (720p),https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 Samiaki TV (540p) [Not 24/7],http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-San Marino RTV (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+San Marino RTV (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 San Pedro TV (1080p) [Not 24/7],https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 San Vito Televisión (720p),https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 Sandzak TV (576p),https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
