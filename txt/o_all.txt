@@ -208,6 +208,7 @@ Bloomberg Quicktake,https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3
 Bloomfield Access TV Channel 5 (BATV) (Bloomfield CT) (480p),https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 Blu Radio (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
 Blue Sky TV (576p),https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+BMC-HD TV,https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 BNB Digital [Not 24/7],https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
 Boishakhi TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
 Bolivia TV 7.2 (720p),https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
@@ -918,6 +919,7 @@ Rossini TV (720p),https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-6
 Rotana+ (1080p),https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 Roya TV (1080p) [Not 24/7],https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+RPTV HD (1080p) [Not 24/7],https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8
 RTA (720p),https://hls.rta.live/hls/stream.m3u8
 RTC Quarta Rete (720p),https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 RTD,https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
@@ -2200,6 +2202,7 @@ CCMA Exclusiu 1 (1080p) [Not 24/7],https://directes-tv-cat.ccma.cat/live-origin/
 CCMA Exclusiu 2 (1080p) [Not 24/7],https://directes-tv-cat.ccma.cat/live-origin/oca2-hls/master.m3u8
 CCMA Exclusiu 3 (1080p) [Not 24/7],https://directes-tv-cat.ccma.cat/live-origin/oca3-hls/master.m3u8
 CCTN 47 (1080p) [Not 24/7],http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV5+,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
 CCTV-4 (1080p),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-7 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
@@ -3301,6 +3304,7 @@ Lolwe TV (576p) [Not 24/7],https://goliveafrica.media:9998/live/62580e144eb43/in
 Lompoc TAP TV Channel 23 (720p),https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 LON TV (Lokale Omroep Nuenen) (720p),https://streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8
 Loreto TV (720p),https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
+Lotus Macau HD (1080p) [Not 24/7],https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 Love and Hip Hop (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 Love Quest (1080p),https://lnc-all-real.tubi.video/playlist.m3u8
@@ -4493,8 +4497,17 @@ SONGTV Russia (720p),https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 Sonnenklar TV (1080p),http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 Sono Onda TV (720p),https://live.obslivestream.com/sonoondatv/index.m3u8
 Sonus FM TV (1080p) [Not 24/7],http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+Sony Aath (1080p),https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 Sony BBC Earth HD (1080p),http://103.81.104.118/hls/stream5.m3u8
 Sony Channel,http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+Sony Kal (1080p),https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+Sony Marathi (1080p),https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+Sony Max 2 (1080p),https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+Sony MAX HD (1080p),https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+Sony Pal (1080p),https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+Sony Pix (1080p),https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+Sony Wah (1080p),https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+Sony Yay! (1080p),https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 Sophia TV Español (720p),https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 Sophia TV Italy (720p),https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 Sorozat+ (576p),http://194.76.186.33:8000/play/a05e/index.m3u8
@@ -5015,6 +5028,7 @@ TV4 La Vall (1080p),https://limited09.todostreaming.es/live/tarson-livestream.m3
 TV5 (720p) [Not 24/7],https://live-fi.tvkaista.net/tv5/live.m3u8
 TV5 Cambodia (720p),https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV5 HD (720p),https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
+TV5 HD (1080p),https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 TV5 Kannada (720p) [Not 24/7],https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 TV5 Linares (720p),https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 TV5 Monde Asia (Asie) (1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -8498,6 +8512,8 @@ Shabakeh 7 (576p),https://t.northtelecom.org/Shabakeh.m3u8
 Shemaroo TV,https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
 Showtime at the Apollo (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
 Simclar TV (720p),https://s.emisoras.tv:8081/simclartv/playlist.m3u8
+Sony Entertainment Television Asia HD (1080p),https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+Sony SAB (1080p),https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 Sooriyan TV,https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 ST Europe Channel (720p),https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 STIRR It's Showtime at the Apollo (720p),https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
@@ -9617,6 +9633,9 @@ Sky Racing 2 (720p),https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/i
 Sky Thoroughbred Central (720p),https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 Sony Six HD (1080p),http://103.81.104.118/hls/stream10.m3u8
 Sony Sports Ten 1 (1080p),https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+Sony Sports TEN 2 HD (1080p),https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+Sony Sports Ten 3 HD (1080p),https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+Sony Sports Ten 4 HD (1080p),https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 SOS Kanal Plus (720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 Sport En France (1080p),https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sport TV1,http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -9807,6 +9826,7 @@ Cupertino City Channel (720p),https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertin
 DC Council Channel (1080p),https://video.oct.dc.gov/out/u/15_12.m3u8
 DC.gov Council Hearing Room 120 (Washington DC) (1080p),https://video.oct.dc.gov/out/u/97_12.m3u8
 Denver 8 TV (Denver CO) (720p),https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+DerryTV 17,https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Diputados TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 District of Columbia Network (DCN) (1080p),https://video.oct.dc.gov/out/u/DCN.m3u8
 EbS Live (Europe by Satellite) (1080p),https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
@@ -10214,6 +10234,7 @@ ShowVen TV (1080p),https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 Education;General,#genre#
 Canal FDR (1080p),https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+DerryTV 23,https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 Animation;Kids,#genre#
 Cartoon Network FreeLive Brazil 2 (720p),https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
@@ -10223,6 +10244,7 @@ Cartoon Network FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/
 Cartoon Network Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 Cartoon Network México (720p),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 Cartoon Network Russia (576p),http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+Cartoon Network Southeast Asia (1080p),https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 Cartoonito,http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 Cartoonito FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 Cartoonito FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
