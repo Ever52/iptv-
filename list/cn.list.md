@@ -65,7 +65,7 @@
 | 59 | [SD]七彩戏剧 | [[SD]七彩戏剧](https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.ctv) |
 | 60 | [VGA]三明新闻综合 | [[VGA]三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
 | 61 | [BD]三沙卫视[ipv6] | [[BD]三沙卫视[ipv6]](https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.m3u8) |
-| 62 | [VGA]海安新闻综合 | [[VGA]海安新闻综合](https://epg.pw/stream/e12fc750b8094b8cde970ed847fa1563cc259ccd485f94cc640e50c84b508df8.m3u8) |
+| 62 | [BD]上虞新闻综合 | [[BD]上虞新闻综合](https://epg.pw/stream/c6081627316b86d1cc44bc6baf9813445e9ee30c26112178e83b1f403f2536b8.m3u8) |
 | 63 | [SD]上海纪实 | [[SD]上海纪实](https://epg.pw/stream/c3471f875fb937bb3261c283c0427ea15fdfee5916c34f3600e1a516f13a2a22.m3u8) |
 | 64 | [BD]上海纪实人文[ipv6] | [[BD]上海纪实人文[ipv6]](https://epg.pw/stream/b6e98019fd687d467b5676a034e2731459d9dfad493bfef11b48d27b499713d2.m3u8) |
 | 65 | [BD]上海都市 | [[BD]上海都市](https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.ctv) |
@@ -388,4 +388,4 @@
 | 382 | [BD]黑龙江都市[ipv6] | [[BD]黑龙江都市[ipv6]](https://epg.pw/stream/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8) |
 | 383 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Thu Apr 18 2024 00:29:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 18 2024 08:09:24 GMT+0000 (Coordinated Universal Time)**
