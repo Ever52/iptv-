@@ -1816,7 +1816,6 @@ Bayyinat TV (404p),https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 BB 24 (720p) [Not 24/7],https://edge15.vedge.infomaniak.com/livecast/ik:bb24-1/playlist.m3u8
 BBC Alba (720p),https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 BBC ALBA HD (1080p),http://83.97.18.189:4224/bysid/8927
-BBC America East (720p),https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 BBC Doctor Who,https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 BBC Doctor Who Classic (720p),https://lnc-dr-who.tubi.video/playlist.m3u8
 BBC Drama,https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
@@ -4761,7 +4760,6 @@ Telecreativa (720p),https://panel.dattalive.com/8012/8012/playlist.m3u8
 TeleDanlí Canal 9 (720p) [Not 24/7],https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 Telediario TV (404p),https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 Telediez (360p) [Not 24/7],https://videohd.live:19360/8020/8020.m3u8
-Telefe (480p),undefined
 Telefe Córdoba (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 Telefe Internacional (720p) [Not 24/7],https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 Telefe Rosario (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
@@ -8268,7 +8266,6 @@ Alföld TV (1080p),https://cloudfront41.lexanetwork.com:1344/relay01/livestream0
 Alrai TV (1080p),https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 Amar Bangla TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-AMC+ (1080p),https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 Amrita TV (720p),https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 ANC Televisión (480p) [Not 24/7],https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 Antares Televisión (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
