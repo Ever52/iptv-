@@ -570,6 +570,7 @@ Ishtar TV (1080p),http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 ITV HD,http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 Jacal Canal 5 (720p) [Not 24/7],https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
 Jahonnamo (1080p),https://live.teleradiocom.tj/4/3m.m3u8
+Jamaica Online TV (1080p) [Not 24/7],https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 JČ1 (1080p),https://stream.jc1.cz/hls/jc1.m3u8
 Jibek Joly (1080p),https://ikomg3.s.llnwi.net/test123/master.m3u8
 Jihočeská televize (1080p),https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
@@ -1378,6 +1379,7 @@ UA Перший,http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEA
 Uchu TV (Cusco) (720p) [Not 24/7],https://tna5.bozztv.com/Cusco/index.m3u8
 UDG TV Canal 44 (720p) [Not 24/7],https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8
 Unare TV (392p),https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8
+UnionTV,https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 Unitel (Huancayo) (720p) [Not 24/7],https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 Unitel Santa Cruz (1080p) [Not 24/7],https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 UNTV (576p),https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
@@ -2999,7 +3001,6 @@ Jacksonville Freedom Fountain Camera Live,https://reflect-jacksonville.cablecast
 Jai Maharashtra (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCmBLIcqOLWwrrAJ-jaCttqw.m3u8
 Jak TV (480p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 Jalisco TV (720p),https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-Jamaica Online TV (1080p) [Not 24/7],https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 Jambi TV (576p) [Not 24/7],http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 Jambyl (360p) [Not 24/7],https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 Janata TV (1080p) [Not 24/7],https://streaming.tvnepal.com:19360/janatatv/janatatv.m3u8
