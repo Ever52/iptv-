@@ -1203,7 +1203,7 @@ Telewizja Regionalna Żary (720p) [Not 24/7],https://ythls.armelin.one/channel/U
 Telewizja Relax (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCZvmZep3wknWdBPcKnwsPHA.m3u8
 Telewizja Sudecka (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8
 Telewizja Zabrze (480p) [Not 24/7],https://ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
-Temiscaming-Kipawa Community television in Québec Canada,https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
+Temiscaming-Kipawa Community Television,https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
 TeN TV (720p),https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 TEVEKA (1080p) [Not 24/7],https://www.teveka.net:8443/show/teveka/index.m3u8
 Thai Nguyen TV (1080p),https://streaming.thainguyentv.vn/hls/livestream.m3u8
@@ -2116,7 +2116,7 @@ CBC Manitoba (CBWT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CB
 CBC Montréal (CBMT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 CBC New Brunswick (CBAT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 CBC Newfoundland and Labrador (CBNT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-CBC News Explore (720p),https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8
+CBC News Explore  (720p),https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8
 CBC North (CFYK-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 CBC Nova Scotia (CBHT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 CBC Ottawa (CBOT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
@@ -5647,7 +5647,6 @@ like Gecko) Mobile/15E148",Приключения (480p),http://ott-cdn.ucom.am/
 ТНВ-Планета (Казань),https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 ТНР,https://streaming.televizor-24-tochka.ru/live/26.m3u8
 ТНТ Exclusiv TV (576p),http://89.28.25.122/hls/tnt_md.m3u8
-Толк,https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 Точка ТВ,https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 ТРК Алекс (576p),http://46.46.112.223/live/livestream1.m3u8
 ТРК Юнион,https://streaming.televizor-24-tochka.ru/live/27.m3u8
