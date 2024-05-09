@@ -4684,6 +4684,7 @@ TeleMix (360p),https://panel.dattalive.com/8068/8068/playlist.m3u8
 Telemolise (1080p),http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 teleMonteneve (480p) [Not 24/7],http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 Telemotril (720p) [Not 24/7],https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+Telemundo East (480p),https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 TeleNantes,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Telenantes.m3u8
 Telenord 8 (1080p) [Not 24/7],http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 Telenord 12 (720p) [Not 24/7],http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
@@ -5401,7 +5402,6 @@ Wonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wond
 Wontumi TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCn7CnwFDT3wXBE3xqQm5riQ.m3u8
 like Gecko) Chrome/81.0.4044.138 Safari/537.36",Workpoint TV (720p),https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8
 World Harvest TV (360p),https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
-WorlVybz TV (360p),https://tv.wowzahosting.com:3292/stream/play.m3u8
 WörTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQ36NJ8-XNhBDvSSsh8gS2Q.m3u8
 WOS TV (1080p),https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 WOWOW Live (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
@@ -7161,8 +7161,8 @@ Mario Pinto TV (720p) [Not 24/7],https://eu1.servers10.com:8081/8028/index.m3u8
 Más Noticias Televisión (720p),https://www.amixtv.com:8081/mntvh/index.m3u8
 Mathrubhumi News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
 MBS News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
-Medi 1 TV Afrique (1080p) [Not 24/7],http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-Medi 1 TV Arabic (1080p) [Not 24/7],http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+Medi 1 TV Afrique (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+Medi 1 TV Arabic (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 Medi 1 TV Maghreb (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 Media One (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 Medya Haber (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
@@ -7575,6 +7575,7 @@ UniTV Porto Alegre (480p),http://unitvaovivo.ufrgs.br:8080/live.ogg
 Vive (1080p) [Not 24/7],https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 Vyas NIC (576p),https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 WIKI TV (720p),http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+World Channel (1080p),https://world.lls.pbs.org/index.m3u8
 WPS TV (360p),https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 YTN2 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 
@@ -8521,6 +8522,7 @@ W14DK-D 14.7 Heartland Channel,https://2-fss-2.streamhoster.com/pl_118/amlst:204
 Web TV Água Boa (720p),http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 WEB TV Paixão FM (360p) [Not 24/7],https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
 Wipeout Xtra (720p),https://lnc-wipeout-xtra.tubi.video/playlist.m3u8
+WorlVybz TV (360p),https://tv.wowzahosting.com:3292/stream/play.m3u8
 WRUA-DT1 (Tiva TV) (720p),https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 WTV Brasil (720p),https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 WTV Canal 20 (1080p),https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
@@ -8898,6 +8900,7 @@ Horee! (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch
 Jojko (1080p),https://st01-2.iptv.joj.sk/104-tv-pc.m3u8
 kabillion (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 Kartoon Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+KBS Kids (480p),http://mytv.dothome.co.kr/ch/catv/6.php
 Ketnet Junior (720p),https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 Kidoodle TV,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 Kids Station (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
