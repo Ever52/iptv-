@@ -666,6 +666,7 @@ Kanal 9 Erzgebirge (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCtd99m_
 Kanal12 Spremberg TV (404p) [Not 24/7],https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 KANAL 58 (1080p) [Not 24/7],https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
 Kanal D Romania (360p),https://stream1.kanald.ro/iphone/knd-live.m3u8
+Kanal Hovedstaden (720p) [Not 24/7],http://khkbh.dk:8080/hls/livestream/index.m3u8
 Kanal Jadid (720p),https://kjhls.wns.live/hls/stream.m3u8
 Kanizsa TV (400p),https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 Kapital TV (576p) [Not 24/7],https://testcam.go.ro:8080/hls/livestream.m3u8
@@ -2326,7 +2327,6 @@ Dheeran TV (576p),https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 Dhoho TV (720p),https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 Diavata TV (720p),https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Didgah TV (280p),https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
-Die Neue Zeit (576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dien Bien TV (406p),https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 Diez TV Úbeda (1080p),https://streaming.cloud.innovasur.es/mmj/index.m3u8
 DigiOne (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
@@ -3004,7 +3004,6 @@ Kanal D (1080p),https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 Kanal Dom (720p),https://kanaldom.cdn-05.cosmonova.net.ua/hls/kanaldom_ua_hi/index.m3u8
 Kanal Firat (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 Kanal Hayat (1080p),https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
-Kanal Hovedstaden (720p) [Not 24/7],http://khkbh.dk:8080/hls/livestream/index.m3u8
 Kanal Sim (576p) [Not 24/7],https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 Kanal Urfa (576p) [Not 24/7],https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
 Kanal V (720p) [Not 24/7],http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
@@ -7736,6 +7735,7 @@ Dare To Dream Network (3ABN) (720p),https://3abn-live.akamaized.net/hls/live/201
 Daystar TV (720p),https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 Derakhte Zendegi TV (404p),http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
 Destiny Voices TV (480p),https://apps.digitaltv.co.ke/live/2004.m3u8
+Die Neue Zeit (576p),https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 Dios Te Ve (720p),https://s.emisoras.tv:8081/diostevetv/index.m3u8
 Divya Darshan TV (720p),http://live.divyadarshantv.com/hls/stream.m3u8
 Diyar TV (1080p),https://yayin30.haber100.com/live/diyartv/playlist.m3u8
