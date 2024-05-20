@@ -618,6 +618,7 @@ HBTV TicaVisión (1080p),https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist
 HD365 TV (576p),https://testcam.go.ro:8080/hls/hd365.m3u8
 Hesper TV (1080p),https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
 Hévízi TV (1080p),https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+Hirshabelle TV,http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
 HKSTV (香港卫视) (720p) [Not 24/7],https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 HLC TV (480p) [Not 24/7],https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 Horizon3 TV (480p) [Not 24/7],http://connectiktv.ddns.me:8080/live/63bae88242fa7/index.m3u8
@@ -2183,6 +2184,7 @@ Cinema Classic,https://api.alpaca.t62a.com/hls/9114/index.m3u8
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
 Cinevault Classics (720p),https://lnc-cinevault-classics.tubi.video/playlist.m3u8
 CineView,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+Cira TV,https://cira-tv.akamaized.net/hls/stream_0.m3u8
 Citra Bioskop (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
 Citra Dangdut,http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 Cítrico TV (240p),https://rdn.essastream.com:3996/live/citricotvlive.m3u8
@@ -4118,9 +4120,11 @@ Rockland TV (480p) [Not 24/7],https://live.creacast.com/rockland-radio/smil:rock
 Rocky Hill Community TV (1080p),https://streams.helnix.com/autoHLS/62a406ce43acb676/62a406ce43acb676.m3u8
 Rodja TV (720p),https://rodjatv.com/rodjatv/live.m3u8
 Rohi (720p) [Not 24/7],https://ythls.armelin.one/channel/UCHlCp7kL8jC9HJrSVJuNJzA.m3u8
+Rojava TV,https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
 Romana TV Canal 42 (480p),https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 Romania TV (576p),https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 Romanza+ Africa (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+Ronahi TV,https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
 Rotana Radio Jordan: City View (180p) [Not 24/7],http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
 Rotana Radio Jordan: Control Studio (180p),http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8
 Rotana Radio Jordan: Studio (180p) [Not 24/7],http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
