@@ -1429,6 +1429,7 @@ TV Zdravkin (400p),http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Pearl (珍珠台) (1080p),https://cdn.hklive.tv/xxxx/84/index.m3u8
 TVC Network (720p) [Not 24/7],https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 TVC Rio (1080p),https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+TVCom,https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 TVCOM DF (360p),https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 TVCOM Maceió (480p),https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 TVenLinea (720p) [Not 24/7],https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
@@ -5100,7 +5101,6 @@ TVCentro Andalucía (720p) [Not 24/7],https://5fa5de1a545ae.streamlock.net/8052/
 TVCG 1 (720p) [Not 24/7],http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 TVCG 2 (720p) [Not 24/7],http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 TVCG MNE (720p) [Not 24/7],http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-TVCom,https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
 TVD Momo 5 (720p),http://183.89.246.119:8881/play/a0a9/index.m3u8
 TVE Internacional America (1080p),https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 TVE RS (1080p),http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -7120,7 +7120,7 @@ Jovem Pan News (JP News) (1080p) [Not 24/7],https://d6yfbj4xxtrod.cloudfront.net
 Joy News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 K21 News (480p) [Not 24/7],https://ythls.armelin.one/channel/UC7g-LI8ueb6qTFZ5-gDgrGg.m3u8
 K News India (1080p),https://knews.livebox.co.in/youtubehls/live.m3u8
-Kairali News (720p),https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
+Kairali News,https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 Kalaignar Seithikal (576p) [Not 24/7],http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 Kanak News (720p) [Not 24/7],https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 Kanal S (720p),https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8

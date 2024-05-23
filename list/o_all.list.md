@@ -3773,7 +3773,7 @@
 | 3767 | Kadak Hits (1080p) [Not 24/7] | [Kadak Hits (1080p) [Not 24/7]](https://live.hungama.com/linear/kadak-hits/playlist.m3u8) |
 | 3768 | Kaif TV (576p) [Not 24/7] | [Kaif TV (576p) [Not 24/7]](http://82.212.74.2:8000/live/hls/7311.m3u8) |
 | 3769 | Kaifa TV (576p) | [Kaifa TV (576p)](http://82.212.74.2:8000/live/7311.m3u8) |
-| 3770 | Kairali News (720p) | [Kairali News (720p)](https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8) |
+| 3770 | Kairali News | [Kairali News](https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8) |
 | 3771 | Kairali We (396p) | [Kairali We (396p)](https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8) |
 | 3772 | Kajou TV (480p) [Not 24/7] | [Kajou TV (480p) [Not 24/7]](https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8) |
 | 3773 | Kalac TV (1080p) | [Kalac TV (1080p)](https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8) |
@@ -10226,4 +10226,4 @@
 | 10220 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10221 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed May 22 2024 08:09:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 23 2024 00:30:54 GMT+0000 (Coordinated Universal Time)**
