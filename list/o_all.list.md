@@ -6489,7 +6489,7 @@
 | 6483 | Rehber TV (720p) | [Rehber TV (720p)](https://yayin30.haber100.com/live/rehbertv/playlist.m3u8) |
 | 6484 | Reklama TV (720p) | [Reklama TV (720p)](https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8) |
 | 6485 | Relax | [Relax](http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8) |
-| 6486 | Relevant TV (1080p) | [Relevant TV (1080p)](https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd) |
+| 6486 | Relevant TV (1080p) | [Relevant TV (1080p)](https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8) |
 | 6487 | Reload Play (720p) | [Reload Play (720p)](http://web.onair-radio.eu:1935/video/video/playlist.m3u8) |
 | 6488 | Renegade Italy (720p) | [Renegade Italy (720p)](https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY) |
 | 6489 | Rennsteig TV (720p) | [Rennsteig TV (720p)](http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8) |
@@ -10212,4 +10212,4 @@
 | 10206 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10207 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri May 24 2024 08:08:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 25 2024 00:30:05 GMT+0000 (Coordinated Universal Time)**
