@@ -2158,7 +2158,6 @@ Channel 7 (480p),http://183.89.246.119:8881/play/a07v/index.m3u8
 Channel 7 Belize,https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 Channel 7 Ukraine (720p),http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 Channel 8 (1080p) [Not 24/7],http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-Channel 8 Kurdish (720p),https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 Channel 9 (480p),http://183.89.246.119:8881/play/a07y/index.m3u8
 Channel 9 Melbourne (720p),https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 Channel 9 Sydney (720p),https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
@@ -6976,6 +6975,7 @@ CGTN (576p),http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/
 CGTN Arabic (576p) [Not 24/7],https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 CGTN Français (576p) [Not 24/7],https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN Русский (576p),https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+Channel 8 Kurdish (720p),https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 Channel 10 (720p),https://i.mjh.nz/10-nsw.m3u8
 Channel 24 (720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
 Channel Dinraat (720p) [Not 24/7],https://ythls.armelin.one/channel/UCILYNzZvWNUPaALmDJBIMAw.m3u8
