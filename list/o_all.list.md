@@ -9627,21 +9627,21 @@
 | 9621 | Наше ТВ (Витебск) (576p) | [Наше ТВ (Витебск) (576p)](http://95.46.208.8:26259/nashe) |
 | 9622 | НВК Саха (1080p) [Not 24/7] | [НВК Саха (1080p) [Not 24/7]](https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8) |
 | 9623 | Небеса ТВ7 (720p) | [Небеса ТВ7 (720p)](https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8) |
-| 9624 | Неизвестная Россия | [Неизвестная Россия](http://cdn.ntv.ru/unknown_russia/playlist.m3u8) |
+| 9624 | Неизвестная Россия | [Неизвестная Россия](https://cdn.ntv.ru/unknown_russia/playlist.m3u8) |
 | 9625 | Нижний Новгород 24 | [Нижний Новгород 24](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8) |
 | 9626 | Ника ТВ (576p) [Not 24/7] | [Ника ТВ (576p) [Not 24/7]](https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8) |
 | 9627 | Новое телевидение (576p) [Not 24/7] | [Новое телевидение (576p) [Not 24/7]](http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8) |
 | 9628 | Ностальгия | [Ностальгия](https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8) |
-| 9629 | НТВ | [НТВ](http://cdn.ntv.ru/ntv0/playlist.m3u8) |
-| 9630 | НТВ +1 | [НТВ +1](http://cdn.ntv.ru/ntv1/playlist.m3u8) |
-| 9631 | НТВ +2 | [НТВ +2](http://cdn.ntv.ru/ntv2/playlist.m3u8) |
-| 9632 | НТВ +4 | [НТВ +4](http://cdn.ntv.ru/ntv4/playlist.m3u8) |
-| 9633 | НТВ +7 | [НТВ +7](http://cdn.ntv.ru/ntv7/playlist.m3u8) |
+| 9629 | НТВ | [НТВ](https://cdn.ntv.ru/ntv0/playlist.m3u8) |
+| 9630 | НТВ +1 | [НТВ +1](https://cdn.ntv.ru/ntv1/playlist.m3u8) |
+| 9631 | НТВ +2 | [НТВ +2](https://cdn.ntv.ru/ntv2/playlist.m3u8) |
+| 9632 | НТВ +4 | [НТВ +4](https://cdn.ntv.ru/ntv4/playlist.m3u8) |
+| 9633 | НТВ +7 | [НТВ +7](https://cdn.ntv.ru/ntv7/playlist.m3u8) |
 | 9634 | НТВ Мир | [НТВ Мир](http://stream02.vnet.am/HTB/mono.m3u8) |
-| 9635 | НТВ Право | [НТВ Право](http://cdn.ntv.ru/th_pravo/playlist.m3u8) |
-| 9636 | НТВ Сериал | [НТВ Сериал](http://cdn.ntv.ru/th_serial/playlist.m3u8) |
-| 9637 | НТВ Стиль | [НТВ Стиль](http://cdn.ntv.ru/th_hit/playlist.m3u8) |
-| 9638 | НТВ Хит | [НТВ Хит](http://cdn.ntv.ru/th_style/playlist.m3u8) |
+| 9635 | НТВ Право | [НТВ Право](https://cdn.ntv.ru/th_pravo/playlist.m3u8) |
+| 9636 | НТВ Сериал | [НТВ Сериал](https://cdn.ntv.ru/th_serial/playlist.m3u8) |
+| 9637 | НТВ Стиль | [НТВ Стиль](https://cdn.ntv.ru/th_hit/playlist.m3u8) |
+| 9638 | НТВ Хит | [НТВ Хит](https://cdn.ntv.ru/th_style/playlist.m3u8) |
 | 9639 | НТВ-Беларусь | [НТВ-Беларусь](http://82.209.197.187:8080/udp/239.0.100.6:1234) |
 | 9640 | НТК ТВ (1080p) [Not 24/7] | [НТК ТВ (1080p) [Not 24/7]](https://stream.ntktv.ua/s/ntk/ntk.m3u8) |
 | 9641 | НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] | [НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]](https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8) |
@@ -10267,4 +10267,4 @@
 | 10261 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10262 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Jun 19 2024 08:09:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 20 2024 00:31:46 GMT+0000 (Coordinated Universal Time)**
