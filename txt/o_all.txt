@@ -174,7 +174,7 @@ Ariana Afghanistan International TV (720p) [Not 24/7],https://iptv.arianaafgtv.c
 Arica TV (480p) [Not 24/7],https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 Arroyo Grande Gov't Access TV Channel 20 (432p),https://agp-nimble.streamguys1.com/AGCC/AGCC/playlist.m3u8
-ART TV (720p),https://til.pp.ua:3026/live/arttvgrlive.m3u8
+ART TV (720p),https://til.pp.ua:3711/live/arttvgr70live.m3u8
 Artigas TV Online (480p) [Not 24/7],https://ssh101.bozztv.com/ssh101/artigastv/playlist.m3u8
 ARTN TV (1080p) [Not 24/7],https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 ARY Digital USA (720p) [Not 24/7],https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
@@ -1829,7 +1829,7 @@ Berat TV (720p) [Not 24/7],https://cdn-berattv.yayin.com.tr/berattv/berattv/play
 Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 Bernama TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 Beşiktaş Web TV (360p),https://s01.vpis.io/besiktas/besiktas.m3u8
-Best TV (720p) [Not 24/7],https://stream.net7.gr/hls/best/index.m3u8
+Best TV (720p) [Not 24/7],http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 BesTV超级 (576p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 BET,http://170.254.18.106/BET/index.m3u8
 BET CLASSICS Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f90-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f90dc5f8-5a4a-4bbd-bb99-e092a9625269
@@ -2630,7 +2630,7 @@ Gaki no Tsukai (English Subs) (720p),https://hamada.gaki-no-tsukai.stream/hls/te
 Galavisión East,https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
 Galavision West,https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=
 GalaxiaTeVe (360p),https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-Galaxy (432p),https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+Galaxy (432p),https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8
 Gali Kurdistan (720p) [Not 24/7],https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
 Galicia TV Europa (720p),https://europa-crtvg.flumotion.com/playlist.m3u8
 Galveston County TV (720p) [Not 24/7],https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
@@ -3658,7 +3658,7 @@ Onda Madrid (720p),https://tvradio-1-23.secure2.footprint.net/master.m3u8
 Onda Novara TV (720p) [Not 24/7],https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 One,https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 like Gecko) Chrome/81.0.4044.138 Safari/537.36",One 31 (720p),https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
-One Channel (1080p),https://til.pp.ua:3391/live/channeln9live.m3u8
+One Channel (1080p),https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 One Piece,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d815-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=011422f0-e50a-4334-9bb5-b01fe7684ef5
 One TV (720p),https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 One TV Asia (576p),http://210.210.155.37/uq2663/h/h143/index.m3u8
@@ -9602,6 +9602,7 @@ Pluto TV Sport Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/c
 Pluto TV Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa2cd1f8-5f20-441d-97cb-63e4c1c5e4f6
 Poker Go (1080p),https://lnc-pokergo.tubi.video/playlist.m3u8
 Poker TV (720p),https://hls.pokertvfa.live/hls/stream.m3u8
+PTV Sports,http://121.91.61.106:8000/play/a00l/index.m3u8
 QazSport (480p),https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 Racing America (720p),https://lnc-racing-america.tubi.video/playlist.m3u8
 Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
@@ -9687,7 +9688,7 @@ Culture,#genre#
 Abai TV (720p),https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 Access Media Productions Community Channel (720p),https://livestream.telvue.com/ampmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Amani TV (1080p) [Not 24/7],https://goccn.cloud/hls/amanitv/index.m3u8
-APT (1080p),https://live-4gf18j5s.rmbl.ws/slot-56/5x3r-6ido_1080p/chunklist.m3u8
+APT (1080p),https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln/chunklist_DVR.m3u8
 Arrabiaa (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
 AsiriTV (720p) [Not 24/7],https://video2.lhdserver.es/asiritv/live.m3u8
 ATR (720p),https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
