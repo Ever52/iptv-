@@ -305,7 +305,7 @@ Campo Televisión (720p),https://video17.virtualtronics.com/streamer/canalcampot
 Campus TV (480p) [Not 24/7],https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 Canada One (720p) [Not 24/7],http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 Canada Star TV (720p),https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-Canal 2 (480p) [Not 24/7],https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
+Canal 2 (480p) [Not 24/7],https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 Canal 2 International (360p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
 Canal 2 Jujuy (720p) [Not 24/7],https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 Canal 2 Misiones (1080p),https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
@@ -318,7 +318,7 @@ Canal 3 Formosa (720p),https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.
 Canal 3 La Pampa (1080p),https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 Canal 3 Las Heras (720p),https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 Canal 3 Rosario (704p),https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-Canal 4 (480p) [Not 24/7],http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
+Canal 4 (480p),https://telecorporacion-es.cdn.vustreams.com/live/b883ccd5-ccea-4d85-be1c-e0d4076024a7/live.isml/live.m3u8
 Canal 4 Balcarce (360p),https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 Canal 4 Eldorado (720p),https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 Canal 4 Esquel (540p),https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
@@ -5649,7 +5649,7 @@ TBC 1 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReem
 TBN TV (720p) [Not 24/7],https://live.suricloud.com/hls/tbntv/index.m3u8
 TBS eFM (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 Tchaman TV (720p),https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
-TCS+ (480p) [Not 24/7],https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
+TCS+ (480p) [Not 24/7],https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 TDI Colombia (720p) [Not 24/7],https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 TDN TV (1080p) [Not 24/7],https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8
 TDS Televisión Departamental Sololá (1080p),https://rpn3.bozztv.com/ssh101/ssh101/tdssololasolola/playlist.m3u8
@@ -8286,7 +8286,7 @@ Ananda TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8
 ANC Televisión (480p) [Not 24/7],https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 Anixe + (360p),https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 Anixe HD Serie (360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-Anjan (720p) [Not 24/7],https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+Anjan (1080p) [Not 24/7],https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
 ANT1 (1080p),http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 ANT1 Cyprus (1080p),http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Antares Televisión (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8

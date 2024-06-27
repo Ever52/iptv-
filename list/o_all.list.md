@@ -680,7 +680,7 @@
 | 674 | Anime Zone TV (480p) | [Anime Zone TV (480p)](http://animezonetv.net/hls/stream.m3u8) |
 | 675 | Anixe + (360p) | [Anixe + (360p)](https://ma.anixa.tv/clips/stream/anixesd/index.m3u8) |
 | 676 | Anixe HD Serie (360p) | [Anixe HD Serie (360p)](https://ma.anixa.tv/clips/stream/anixehd/index.m3u8) |
-| 677 | Anjan (720p) [Not 24/7] | [Anjan (720p) [Not 24/7]](https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8) |
+| 677 | Anjan (1080p) [Not 24/7] | [Anjan (1080p) [Not 24/7]](https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8) |
 | 678 | Ankang TV-1 News | [Ankang TV-1 News](http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8) |
 | 679 | ANN JapaNews24 (720p) [Not 24/7] | [ANN JapaNews24 (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8) |
 | 680 | Announcement | [Announcement](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94&serverSideAds=false) |
@@ -1380,7 +1380,7 @@
 | 1374 | Canada Star TV (720p) | [Canada Star TV (720p)](https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8) |
 | 1375 | Canal 1 (720p) | [Canal 1 (720p)](https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8) |
 | 1376 | Canal 1 Mar Menor-Torre Pacheco (1080p) | [Canal 1 Mar Menor-Torre Pacheco (1080p)](https://directo.tuwebtv.es/canal1.m3u8) |
-| 1377 | Canal 2 (480p) [Not 24/7] | [Canal 2 (480p) [Not 24/7]](https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8) |
+| 1377 | Canal 2 (480p) [Not 24/7] | [Canal 2 (480p) [Not 24/7]](https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8) |
 | 1378 | Canal 2 Alpavisión Ibagué (720p) [Not 24/7] | [Canal 2 Alpavisión Ibagué (720p) [Not 24/7]](https://stmv4.voxtvhd.com.br/alpavisionibague/alpavisionibague/playlist.m3u8) |
 | 1379 | Canal 2 Alpavisión Neiva (720p) [Not 24/7] | [Canal 2 Alpavisión Neiva (720p) [Not 24/7]](https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8) |
 | 1380 | Canal 2 Cali (720p) | [Canal 2 Cali (720p)](https://video13.virtualtronics.com/streamer/canal2.m3u8) |
@@ -1400,7 +1400,7 @@
 | 1394 | Canal 3 La Pampa (1080p) | [Canal 3 La Pampa (1080p)](https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8) |
 | 1395 | Canal 3 Las Heras (720p) | [Canal 3 Las Heras (720p)](https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8) |
 | 1396 | Canal 3 Rosario (704p) | [Canal 3 Rosario (704p)](https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8) |
-| 1397 | Canal 4 (480p) [Not 24/7] | [Canal 4 (480p) [Not 24/7]](http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8) |
+| 1397 | Canal 4 (480p) | [Canal 4 (480p)](https://telecorporacion-es.cdn.vustreams.com/live/b883ccd5-ccea-4d85-be1c-e0d4076024a7/live.isml/live.m3u8) |
 | 1398 | Canal 4 Balcarce (360p) | [Canal 4 Balcarce (360p)](https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8) |
 | 1399 | Canal 4 Catalunya (1080p) | [Canal 4 Catalunya (1080p)](https://limited35.todostreaming.es/live/mitjans-livestream.m3u8) |
 | 1400 | Canal 4 de Matehuala (360p) [Not 24/7] | [Canal 4 de Matehuala (360p) [Not 24/7]](https://stream.oursnetworktv.com/latin/encoder203/playlist.m3u8) |
@@ -7553,7 +7553,7 @@
 | 7547 | TCH (1080p) [Not 24/7] | [TCH (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8) |
 | 7548 | Tchaman TV (720p) | [Tchaman TV (720p)](https://itelema.stream/live/smil:myStream.smil/playlist.m3u8) |
 | 7549 | TCI (1080p) | [TCI (1080p)](https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8) |
-| 7550 | TCS+ (480p) [Not 24/7] | [TCS+ (480p) [Not 24/7]](https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8) |
+| 7550 | TCS+ (480p) [Not 24/7] | [TCS+ (480p) [Not 24/7]](https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8) |
 | 7551 | TCSM (1080p) | [TCSM (1080p)](https://blueeyecaboverde.com/cam1/memfs/e8e6696b-2102-45b9-9b5c-f9c101266d90.m3u8) |
 | 7552 | TD Ameritrade Network (1080p) | [TD Ameritrade Network (1080p)](https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8) |
 | 7553 | TDI Colombia (720p) [Not 24/7] | [TDI Colombia (720p) [Not 24/7]](https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8) |
@@ -10311,4 +10311,4 @@
 | 10305 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10306 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Jun 26 2024 08:09:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 27 2024 00:32:29 GMT+0000 (Coordinated Universal Time)**
