@@ -1235,7 +1235,6 @@ Kalinga TV (864p) [Not 24/7],https://live.mycast.in/kalingatv/d0dbe915091d400bd8
 Kalsan TV (576p),https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 KAN 11 Israel (1080p),https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 Kanal 3 (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
-Kanal 5 (360p),https://s2.teve.mk/tvstanici/2/playlist.m3u8
 Kanal 6 (288p),https://restreamer1.tnt.ba/hls/kanal6.m3u8
 Kanal 7 (1080p) [Not 24/7],https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 Kanal 7 Avrupa (1080p) [Not 24/7],https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -5148,6 +5147,7 @@ Junco Tv (720p),https://mediacp.us:8081/juncotv/index.m3u8
 K24 (720p),https://5de06ce62a0b5.streamlock.net/k24/myStream/playlist.m3u8
 Kameme TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCd9nkc2XA77NMxBvQz35I2Q.m3u8
 Kanal 0,https://old2.rn-tv.com/k0/stream.m3u8
+Kanal 5 (360p),https://s2.teve.mk/tvstanici/2/playlist.m3u8
 Kanal 8 (720p),http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 Kanal 9 Erzgebirge (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCtd99m_W5wsyd4YFyQMb7ig.m3u8
 Kanal12 Spremberg TV (404p) [Not 24/7],https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
