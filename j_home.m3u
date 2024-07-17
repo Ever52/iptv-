@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=3f76fa247855b9f1507e08620e857dda1b4424839963e7074fc1ee72310d6023_1720504514_604800&fromCDN=ws
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
