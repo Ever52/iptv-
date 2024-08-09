@@ -5313,7 +5313,7 @@
 | 5307 | News X (720p) [Not 24/7] | [News X (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8) |
 | 5308 | NewSignal (1080p) | [NewSignal (1080p)](https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8) |
 | 5309 | Newsmax2 | [Newsmax2](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974) |
-| 5310 | Newsmax (1080p) | [Newsmax (1080p)](https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8) |
+| 5310 | Newsmax TV | [Newsmax TV](https://newsmax.codeautoplaycdn2.workers.dev/) |
 | 5311 | NewsNet (720p) | [NewsNet (720p)](https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8) |
 | 5312 | Newsy | [Newsy](https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8) |
 | 5313 | NewTV动画王国 (1080p) | [NewTV动画王国 (1080p)](http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8) |
@@ -10601,4 +10601,4 @@
 | 10595 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10596 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Aug 08 2024 08:10:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 09 2024 00:34:44 GMT+0000 (Coordinated Universal Time)**
