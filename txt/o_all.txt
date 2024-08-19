@@ -5358,8 +5358,8 @@ International Vietnamese Television IVTV Channel 57.16 (720p),https://59d39900eb
 Intuitiva TV (720p),https://video2.lhdserver.es/cableperu/live.m3u8
 Ioannina TV (1080p) [Not 24/7],https://raw.githubusercontent.com/iptvnikolas/Nikki-TVM3U8/main/ioanninatv.m3u8
 iON TV (576p),https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-IRIB1,https://af.ayas.ir/hls2/tv1.m3u8
-IRIB2,https://af.ayas.ir/hls2/tv2.m3u8
+IRIB1 (720p),https://live.aionet.ir/hls/tv1/tv1.m3u8
+IRIB2 (540p),https://live.aionet.ir/hls/tv2/tv2.m3u8
 IRIB3,https://live.aionet.ir/hls/tv3/tv3.m3u8
 IRIB4 (540p),https://live.aionet.ir/hls/tv4/tv4.m3u8
 IRIB5 (540p),https://live.aionet.ir/hls/tv5/tv5.m3u8
@@ -9911,7 +9911,6 @@ Golf Network (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3
 grvty (1080p),https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 Hard Knocks (1080p) [Not 24/7],https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 Idman,https://edge02.odtv.az/o7/idman/playlist.m3u8
-IMPACT Wrestling (1080p),https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 Insight TV (1080p),https://insighttv-vizio.amagi.tv/playlist.m3u8
 Inter TV (720p),https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
