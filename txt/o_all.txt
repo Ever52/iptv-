@@ -2760,9 +2760,7 @@ STB (720p),https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b57
 Stellar TV (1080p),https://d3kddmbw1dqgzz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-StellarTV/332.m3u8
 Stereo 5 TV (720p),https://stream1.aswifi.it/stereo5/live/index.m3u8
 Stgo.TV (720p),https://stv.janus.cl/playlist/stream.m3u8
-Stingray Holidayscapes,https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
 Stingray Qello Concerts (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
-Stingray Spa,https://jmp2.uk/SamsungTVPlus/USBD3500013DG.m3u8
 Storage Wars: Canada,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede464e7be0030007c58b73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b210d35-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e6c7cd6-f0e1-4eec-af2e-bc8a057fa543&serverSideAds=false
 Stormcast Novelas TV,https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 Story Television,https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
@@ -3186,7 +3184,8 @@ TT24 Teletutto (720p),https://600f07e114306.streamlock.net/TT24_TELETUTTO/livest
 Tu Kanal (1080p),http://45.33.63.98/hls/abdi.m3u8
 Tu Pop Favorito,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 Tubi Originals (720p),https://lnc-tubi-originals.tubi.video/index.m3u8
-TUDN (720p),https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
+TUDN,https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
+TUDN México (540p),http://190.61.102.67:2000/play/a08j/index.m3u8
 Tulip TV (Youtube) (720p) [Not 24/7],https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
 Tumpis TV (720p),https://servilive.com:3531/stream/play.m3u8
 Tunevisión (1080p) [Not 24/7],https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
@@ -6598,7 +6597,7 @@ PTC Dhol (720p),https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/play
 PTC Music (720p),https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 Public Music (576p) [Not 24/7],http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 Q-Music (1080p),https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
-Qello Concerts by Stingray,https://jmp2.uk/SamsungTVPlus/USBD3500024YB.m3u8
+Qello Concerts by Stingray (1080p),https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 Qwest TV Jazz & Beyond (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 Qwest TV Mix (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 QwestTV,https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
@@ -6682,29 +6681,28 @@ Star Folk (1080p),https://live.muzickatv.mk/live/StarMusic.m3u8
 Star Plus Music (1080p) [Not 24/7],https://live.muzickatv.mk/live/StarMusic2.m3u8
 Steelbird Music (720p) [Not 24/7],http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 Stingray Ambience (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
-Stingray Classic Rock,https://jmp2.uk/SamsungTVPlus/USBD35000180U.m3u8
-Stingray Classica,https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8
-Stingray CMusic,https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
-Stingray DJAZZ,https://jmp2.uk/SamsungTVPlus/USBD3500025GS.m3u8
-Stingray Easy Listening,https://jmp2.uk/SamsungTVPlus/USBD3500011J3.m3u8
-Stingray Flashback 70s,https://jmp2.uk/SamsungTVPlus/USBD3500008IJ.m3u8
-Stingray Greatest Hits,https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8
-Stingray Hip Hop,https://jmp2.uk/SamsungTVPlus/USBD3500010MT.m3u8
+Stingray Classic Rock (1080p),https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+Stingray Classica (1080p),https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+Stingray CMusic (1080p),https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+Stingray DJAZZ (1080p),https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+Stingray Easy Listening (1080p),https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+Stingray Flashback 70s (1080p),https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+Stingray Greatest Hits (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 Stingray Hit List (1080p),https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 Stingray Holiday Hits (1080p),https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-Stingray Hot Country,https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8
+Stingray Hot Country (1080p),https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 Stingray Karaoke (1080p),https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-Stingray Naturescape,https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
-Stingray Nothin' But 90s,https://jmp2.uk/SamsungTVPlus/USBD35000149S.m3u8
+Stingray Naturescape (1080p),https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+Stingray Nothin' But 90s (1080p),https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 Stingray Pop Adult (1080p),https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-Stingray Remember the 80s,https://jmp2.uk/SamsungTVPlus/USBD3300022QK.m3u8
+Stingray Remember the 80s (1080p),https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 Stingray Rock Alternative (1080p),https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-Stingray Romance Latino,https://jmp2.uk/SamsungTVPlus/USBD3500017CE.m3u8
-Stingray Smooth Jazz,https://jmp2.uk/SamsungTVPlus/USBD35000128A.m3u8
-Stingray Soul Storm,https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
+Stingray Romance Latino (1080p),https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+Stingray Smooth Jazz (1080p),https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+Stingray Soul Storm (1080p),https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 Stingray The Spa (1080p),https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-Stingray Today's K-Pop,https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8
-Stingray Today's Latin Pop,https://jmp2.uk/SamsungTVPlus/USBD3500009Y3.m3u8
+Stingray Today's KPOP (1080p),https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+Stingray Today's Latin Pop (1080p),https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 Stingray Urban Beat (1080p),https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 STZ Telebista (1080p),https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 Super Classics TV (360p),https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
@@ -7360,7 +7358,7 @@ News State UP & UK (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCeNP3dA
 News Tamil 24x7,https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 News X (720p) [Not 24/7],https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 Newsmax2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974
-Newsmax TV,https://newsmax.codeautoplaycdn2.workers.dev/
+Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 NewsNet (720p),https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
 Newsy,https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 NH Niews (1080p),https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
@@ -10249,6 +10247,7 @@ RT Documentary English (1080p),https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 RTД,https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 Spike Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
 viju Explore,http://91.205.199.3/viasatexplorer/index.m3u8
+viju History,https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 viju Nature,http://91.205.199.3/viasatnature/index.m3u8
 Voyager Documentaries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1024-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7ab6188-0ea8-4038-b8e2-2865d3dcabd9
 Нано ТВ HD,http://s1.tv-nano.com/Nano_rec/index.m3u8
