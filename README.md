@@ -47,7 +47,7 @@
 | qwerttvv/Beijing-IPTV IPTV Mobile | <https://m3u.vodtv.cn/q_bj_iptv_mobile.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile](https://m3u.vodtv.cn/list/q_bj_iptv_mobile.list) | rollback,153 |
 | qwerttvv/Beijing-IPTV IPTV Mobile Multicast | <https://m3u.vodtv.cn/q_bj_iptv_mobile_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_mobile_m.list) | rollback,138 |
 
-Updated at **Wed Sep 04 2024 08:16:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 05 2024 00:36:35 GMT+0000 (Coordinated Universal Time)**
 
 ## 加速工具
 
