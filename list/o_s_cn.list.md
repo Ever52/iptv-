@@ -507,4 +507,4 @@
 | 501 | QTV-1 | [QTV-1](http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8) |
 | 502 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lztv.tv/xwzh/HD/live.m3u8) |
 
-Updated at **Sat Sep 14 2024 00:36:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 14 2024 08:10:24 GMT+0000 (Coordinated Universal Time)**
