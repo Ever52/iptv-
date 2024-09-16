@@ -353,7 +353,7 @@
 | 347 | Adult Swim Metalocalypse (1080p) | [Adult Swim Metalocalypse (1080p)](https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8) |
 | 348 | Adult Swim Mr. Pickles (1080p) | [Adult Swim Mr. Pickles (1080p)](https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8) |
 | 349 | Adult Swim Off The Air (1080p) | [Adult Swim Off The Air (1080p)](https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8) |
-| 350 | Adult Swim Primal (1080p) | [Adult Swim Primal (1080p)](https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8) |
+| 350 | Adult Swim Primal (1080p) | [Adult Swim Primal (1080p)](https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8) |
 | 351 | Adult Swim Rick and Morty (1080p) | [Adult Swim Rick and Morty (1080p)](https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8) |
 | 352 | Adult Swim Robot Chicken (1080p) | [Adult Swim Robot Chicken (1080p)](https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8) |
 | 353 | Adult Swim Samurai Jack (1080p) | [Adult Swim Samurai Jack (1080p)](https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8) |
@@ -10475,4 +10475,4 @@
 | 10469 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10470 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon Sep 16 2024 00:39:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 16 2024 08:11:43 GMT+0000 (Coordinated Universal Time)**

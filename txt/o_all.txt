@@ -74,7 +74,7 @@ Adult Swim Daily Animated (1080p),https://adultswim-vodlive.cdn.turner.com/live/
 Adult Swim Daily Live Action (1080p),https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
 Adult Swim Home Movies (1080p),https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
 Adult Swim Mr. Pickles (1080p),https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
-Adult Swim Primal (1080p),https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+Adult Swim Primal (1080p),https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 Adult Swim Squidbillies (1080p),https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
 Adult Swim Superjail! (1080p),https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_de.m3u8
 Adult Swim Tim and Eric (1080p),https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
