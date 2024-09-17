@@ -5275,7 +5275,7 @@
 | 5269 | NBT 2HD (720p) | [NBT 2HD (720p)](https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8) |
 | 5270 | NBT 11 Central (720p) | [NBT 11 Central (720p)](https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=) |
 | 5271 | NBT World (720p) | [NBT World (720p)](https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8) |
-| 5272 | NCI (1080p) | [NCI (1080p)](https://pixa.cdn.easybroadcast.fr/nci/nci.isml/master.m3u8) |
+| 5272 | NCI (1080p) | [NCI (1080p)](https://pixa.cdn.easybroadcast.fr/nci/nci.isml/index.m3u8) |
 | 5273 | NCIS | [NCIS](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f06-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf46f3b0-cd26-4b98-92b0-312be52250e0) |
 | 5274 | NCM Educational & Kids Channel | [NCM Educational & Kids Channel](https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8) |
 | 5275 | NCM Government & Politics | [NCM Government & Politics](https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_002/playlist.m3u8) |
@@ -10475,4 +10475,4 @@
 | 10469 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10470 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Sep 17 2024 00:30:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 17 2024 08:10:59 GMT+0000 (Coordinated Universal Time)**

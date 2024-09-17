@@ -5361,7 +5361,7 @@ Nativa (720p) [Not 24/7],https://oneplay.iptvperu.tv:1936/static/nativa1.stream/
 Nativa TV (720p),https://mediacpstreamchile.com:1936/nativa3/nativa3/playlist.m3u8
 Nativa TV Satipo (720p) [Not 24/7],https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 Nayarit Comunica,https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-NCI (1080p),https://pixa.cdn.easybroadcast.fr/nci/nci.isml/master.m3u8
+NCI (1080p),https://pixa.cdn.easybroadcast.fr/nci/nci.isml/index.m3u8
 NCM Main Channel,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_001/playlist.m3u8
 NDTV Criciuma (720p),https://caikron.com.br:19360/criciuma/criciuma.m3u8
 NET TV (720p),https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
