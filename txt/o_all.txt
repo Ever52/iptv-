@@ -9311,6 +9311,10 @@ Classique TV 2 (480p),https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist
 Classique TV (360p),https://stmv1.srvif.com/classique/classique/playlist.m3u8
 Classique TV Western (360p),https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 Crackle (XUMO) (1080p),https://crackle-xumo.amagi.tv/playlist.m3u8
+Crave 1 (720p),http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+Crave 2 (720p),http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+Crave 3 (720p),http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+Crave 4 (720p),http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 CS Film (1080p),https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 Damac Persian (720p),https://damac-tv.icdndhcp.com/hls/stream.m3u8
 De Película (576p),https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
@@ -9910,7 +9914,7 @@ Fox Soul (1080p),https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 Garshom TV (360p) [Not 24/7],https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 GipsyTv Wien (720p) [Not 24/7],https://ythls.armelin.one/channel/UCDQ8ziK0-ANT-F906M71dJg.m3u8
 GTV (360p) [Not 24/7],http://91.220.221.60/gtv_hls/gtv_03.m3u8
-Guaymate TV (360p),https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+Guaymate TV (1080p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8
 Hamaika Telebista (1080p),https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 Himalaya TV,http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 Holvoet TV (Copiapó) (720p) [Not 24/7],https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
