@@ -508,4 +508,4 @@
 | 502 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lztv.tv/xwzh/HD/live.m3u8) |
 | 503 | Lasa TV | [Lasa TV](https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8) |
 
-Updated at **Sun Sep 29 2024 08:10:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 30 2024 00:40:21 GMT+0000 (Coordinated Universal Time)**
