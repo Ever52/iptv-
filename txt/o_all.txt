@@ -3414,7 +3414,6 @@ WDR Fernsehen Wuppertal (720p),https://wdrlokalzeit.akamaized.net/hls/live/20180
 Well TV,https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
 Wellbeing TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f21f7e0f61420008273b9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b101-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c44e8c0-697e-4427-8e61-0aaafe70cf08
 Welt der Wunder TV (576p),https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-Wéo (Hauts-de-France) (480p) [Not 24/7],https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
 Wesal TV (720p) [Not 24/7],https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 West Hollywood WeHoTV (West Hollywood CA) (360p),https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 Westlake Village WVTV Channel 10 (Westlake Village CA) (360p),https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/westlakevillage/G0133_004/playlist.m3u8
@@ -3609,7 +3608,6 @@ Zylo ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 Миллет (540p) [Not 24/7],https://live.trkmillet.ru/millet/index.m3u8
 Мир Белагорья (720p),http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 Москва 24,https://player.smotrim.ru/iframe/stream/live_id/1661
-МТРК (576p) [Not 24/7],https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 Музыка 1 International,https://kino-1.catcast.tv/content/37745/index.m3u8
 Музыка 2 International,https://kino-1.catcast.tv/content/37742/index.m3u8
 Музыка Кино International,https://kino-1.catcast.tv/content/37739/index.m3u8
@@ -5959,6 +5957,7 @@ We One Kerala (720p),http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3
 WEEFF TV (1080p),https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live
 WeertFM TV (720p),https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 Weihai Public Channel,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+Wéo (Hauts-de-France) (480p) [Not 24/7],https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
 West Africa TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCxXEr1iy6EJssFRI9uYmiuw.m3u8
 WHPS Detroit,https://hls-live-media.cdn01.net/default/stream_46366.m3u8?source=othersites
 Williams TV (480p),http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
@@ -6010,6 +6009,7 @@ Zurquí TV (720p),https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpam
 Мир +2 (540p) [Not 24/7],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Мир +4 (540p) [Not 24/7],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 Мир +7 (540p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+МТРК (576p) [Not 24/7],https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 НТВ,http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 НТВ HD,http://91.205.199.3/ntvhd/index.m3u8
 НТВ-Беларусь,http://82.209.197.187:8080/udp/239.0.100.6:1234
