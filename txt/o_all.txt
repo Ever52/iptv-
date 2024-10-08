@@ -1410,7 +1410,7 @@ Mr. Beast (1080p),https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
 MRT 1 (480p),https://s1.teve.mk/tvstanici/6/playlist.m3u8
 MRT 2,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 MRT Sobraniski kanal,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
-MRTV 4 (480p),https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+MRTV 4 (1080p),https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 MRTV (720p),https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 MTA1 World (720p),https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 MTA2 Europe (720p),https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
@@ -2135,7 +2135,6 @@ Rakuten Viki (720p),https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
 Rama Channel,https://ramach.ddns.net/live/ramalive/index.m3u8
 RAN1 (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 Rapsodia TV (576p),http://92.86.248.141:8080/ram/playlist.m3u8
-RASD TV (404p),https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 Rasmey Hang Meas HDTV (720p),http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 Rasyaad TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 Rauchende Colts,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2070f0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=751c767c-10d2-4a8e-8886-f29909f0090e
@@ -5495,6 +5494,7 @@ Rákosmente TV (720p),http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 Raly TV (720p),https://cloudvideo.servers10.com:8081/8072/index.m3u8
 Ramogi TV (720p),https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
 Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p),https://vod.cityofrc.us/live-6/live/live.m3u8
+RASD TV (404p),https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 RDC TV (720p),https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 RDM Televisión (720p) [Not 24/7],https://cp.panelchs.com:1936/8010/8010/playlist.m3u8
 Record TV Belem (720p),https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8

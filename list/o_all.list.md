@@ -5055,7 +5055,7 @@
 | 5049 | MRT 1 (480p) | [MRT 1 (480p)](https://s1.teve.mk/tvstanici/6/playlist.m3u8) |
 | 5050 | MRT 2 | [MRT 2](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8) |
 | 5051 | MRT Sobraniski kanal | [MRT Sobraniski kanal](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8) |
-| 5052 | MRTV 4 (480p) | [MRTV 4 (480p)](https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8) |
+| 5052 | MRTV 4 (1080p) | [MRTV 4 (1080p)](https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8) |
 | 5053 | MRTV (720p) | [MRTV (720p)](https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8) |
 | 5054 | MRTV Entertainment (480p) | [MRTV Entertainment (480p)](https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8) |
 | 5055 | MRTV Parliament (480p) | [MRTV Parliament (480p)](https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8) |
@@ -10490,4 +10490,4 @@
 | 10484 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10485 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Oct 08 2024 00:38:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 08 2024 08:11:44 GMT+0000 (Coordinated Universal Time)**
