@@ -7176,7 +7176,6 @@ Global Punjab (1080p),https://server.livelegitpro.in/globalpunjab/globalpunjab/i
 GNN HD (720p) [Not 24/7],https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8
 Goa365 (720p),https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
 Good News Today (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8
-GoodNews TV (720p),https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 GTV Network (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC6XLG5YjZfK1p5oY5MJ3NMw.m3u8
 Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 Gulistan News (720p),https://livestream.jktvonline.com/hls/gul.m3u8
@@ -8035,6 +8034,7 @@ GOOD TV CH1 综合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivec
 GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
 GoodLife 45 (720p) [Not 24/7],https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
 Goodness TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8
+GoodNews TV (720p),https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 Gospel Broadcasting Network (GBN) (1080p),https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 Gospel Cartoon (360p),https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
