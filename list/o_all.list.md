@@ -6936,7 +6936,7 @@
 | 6930 | RTA Education (1080p) | [RTA Education (1080p)](https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8) |
 | 6931 | RTA News (1080p) | [RTA News (1080p)](https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8) |
 | 6932 | RTA Sport (1080p) | [RTA Sport (1080p)](https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8) |
-| 6933 | RTB (360p) [Not 24/7] | [RTB (360p) [Not 24/7]](https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8) |
+| 6933 | RTB [Not 24/7] | [RTB [Not 24/7]](https://edge20.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8) |
 | 6934 | RTB Aneka (720p) | [RTB Aneka (720p)](https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8) |
 | 6935 | RTB Go (720p) | [RTB Go (720p)](https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8) |
 | 6936 | RTB Sukmaindera (720p) | [RTB Sukmaindera (720p)](https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8) |
@@ -10490,4 +10490,4 @@
 | 10484 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10485 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Oct 16 2024 00:39:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 16 2024 08:11:31 GMT+0000 (Coordinated Universal Time)**

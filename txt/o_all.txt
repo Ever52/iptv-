@@ -2251,7 +2251,7 @@ Royal TV (720p),http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
 RTA Education (1080p),https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 RTA News (1080p),https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
-RTB (360p) [Not 24/7],https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
+RTB [Not 24/7],https://edge20.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 RTC Télé Liège,https://tvlocales-live.freecaster.com/live/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 RTC Telecalabria (720p) [Not 24/7],http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 RTC Televisión,https://5eae379fb77bb.streamlock.net/rtctelevision/rtctelevision/playlist.m3u8
