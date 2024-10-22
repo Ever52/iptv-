@@ -1022,8 +1022,6 @@ KNLJ-DT1 (720p),https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
 Kordia TV (1080p),https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8
 Kosmo FR,https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
-KQFX-LD1 (720p),https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-KQSL Channel 8 (720p),https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 KRCA-TV Estrella Los Angeles (720p),https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
 KRCG-DT1 (720p),https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 KRCG-DT2 (720p),https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
@@ -5164,6 +5162,7 @@ Kontra Channel (1080p),https://kontralive.siliconweb.com/live/kontratv/playlist.
 Konya Olay TV (720p),https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 Korea Economy TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
 KPNX News Channel 12,https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
+KQFX-LD1 (720p),https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 Krem TV,https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 Kurdistan TV (720p) [Not 24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 Kurýr TV (1080p) [Not 24/7],https://stream-35.mazana.tv/jc2.jc.m3u8
@@ -8120,6 +8119,7 @@ KICCTV (576p),https://webstreaming.viewmedia.tv/web_020/Stream/playlist.m3u8
 King TV (544p),https://tv1.isi-broadcast.tech/KING_TV/index.m3u8
 KK TV Angola (1080p),https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 KKRtv (720p) [Not 24/7],http://stream.kkr.dk/live/kkr/playlist.m3u8
+KQSL Channel 8 (720p),https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 KSCE Vida Cristiana (360p),https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 KSTV Uganda (480p),https://readymedia.moderntv.cloud:8092/distribute/readymedia/KS_TV_stream_dc/5-20-hls/live.m3u8
 Kuriakos TV (1080p),https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
