@@ -42,7 +42,6 @@ ABC 9 Cincinnati OH (WCPO) (720p),https://apollo.production-public.tubi.io/live/
 ABC 9 Manchester NH (WMUR-TV) (720p),https://apollo.production-public.tubi.io/live/ac-wmur.m3u8
 ABC 9 Orlando FL (WFTV) (720p),https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 ABC 12 Milwaukee WI (WISN) (720p),https://apollo.production-public.tubi.io/live/ac-wisn.m3u8
-ABC 13 Las Vegas NV (KTNV) (720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 ABC 25 Columbia,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ABC 25 News Central Texas,https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 ABC 27 Tallahassee FL (WTXL) (720p),https://apollo.production-public.tubi.io/live/ac-wtxl.m3u8
@@ -764,10 +763,7 @@ FOX 2 San Francisco CA (KTVU) (720p),https://apollo.production-public.tubi.io/li
 FOX 5 New York NY (WNYW) (720p),https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 FOX 5 Washington DC (WTTG) (720p),https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 FOX 6 Milwaukee WI (WITI) (720p),https://apollo.production-public.tubi.io/live/ac-witi.m3u8
-FOX 7 Austin TX (KTBC) (720p),https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8
-FOX 10 Phoenix AZ (KSAZ) (720p),https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8
 FOX 11 Los Angeles CA (KTTV) (720p),https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
-FOX 13 Salt Lake City UT (KSTU) (720p),https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
 FOX 13 Tampa Bay FL (WTVT) (720p),https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8
 Fox 15 West Texas Abilene TX (KXVA),https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 FOX 17 Grand Rapids MI (WXMI) (720p),https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
@@ -1019,14 +1015,7 @@ KNLJ-DT1 (720p),https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
 Kordia TV (1080p),https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8
 Kosmo FR,https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
-KSBY News San Louis Obispo CA (720p),https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
-KSDK-DT1 (1080p),https://livevideo01.ksdk.com/hls/live/2014965/elvs/live.m3u8
-KSHB 41 (Kansas City MO) (720p),https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-KSHB-DT3 (720p),https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-KSMO-DT1 (720p),https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-KTHV CBS 11 (Little Rock AR),https://livevideo.tegnadigital.com/kthv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTHV/elvs/live.m3u8
 KTN Home (720p) [Not 24/7],https://ythls.armelin.one/channel/UCkWr5PLM8hp8M4WNIkjpKsQ.m3u8
-KTO (404p) [Not 24/7],https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 KTV 1 (1080p),https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 KTV 2 (1080p),https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 KTV Al Majlis (1080p),https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
@@ -2591,10 +2580,8 @@ Taxi,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 TBMM TV (720p),https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 TBN,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232
 TBN Africa (1080p),https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
-TBN Enlace,https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 TBN Nejat TV (720p),https://hls.nejat.live/hls/stream.m3u8
 TBN Pacific,https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-TBN Smile (480p),https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 TBN UK (720p),https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 TBN Україна (720p),https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
 TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
@@ -2808,7 +2795,6 @@ The Challenge,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 The Craft Store (720p),https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 The CW (WCWN-DT1) Albamy NY (1080p),https://16live00.akamaized.net/CW/index.m3u8
 The CW Altoona PA (WJAC4) (720p),http://trn03.tulix.tv/teleup-cw-whp/playlist.m3u8
-The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7],http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
 The CW Tallahassee FL (WTLF1) (720p) [Not 24/7],https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 The Cycling Channel,https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 The Design Network Europe,https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -3628,7 +3614,6 @@ Zylo ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 КИНО-1 INTERNATIONAL,https://autopilot.catcast.tv/content/38617/index.m3u8
 Кнопка ТВ,https://api.alpaca.t62a.com/hls/9116/index.m3u8
 Красная линия,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-КТК (1080p) [Not 24/7],https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 Курай (Уфа) (576p),https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 Ланет.TV (486p),https://kiev1-cdn.lanet.tv/live/1008.m3u8
 Миллет (540p) [Not 24/7],https://live.trkmillet.ru/millet/index.m3u8
@@ -4171,6 +4156,7 @@ ABC 7 Los Angeles CA (KABC-TV) (720p),https://content.uplynk.com/channel/ext/211
 ABC 7 Omaha NE (KETV) (720p),https://apollo.production-public.tubi.io/live/ac-ketv.m3u8
 ABC 9 Tucson AZ (KGUN) (720p),https://apollo.production-public.tubi.io/live/ac-kgun.m3u8
 ABC 10 San Diego CA (KGTV) (720p),https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8
+ABC 13 Las Vegas NV (KTNV) (720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 ABC 15 Phoenix AZ (KNXV-TV) (720p),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p),https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
 ABC 40/29 Fort Smith AR (KHBS) (720p),https://apollo.production-public.tubi.io/live/ac-khbs.m3u8
@@ -4881,7 +4867,10 @@ Főnix TV (576p),https://stream.streaming4u.hu/FonixTV/index.fmp4.m3u8
 Fontana Community Television (720p),https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 Fortaleza TV Cueto (720p),https://glb.bozztv.com/glb/ssh101/fortalezacueto/index.m3u8
 FOX 4 Dallas / Fort Worth TX (KDFW) (720p),https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8
+FOX 7 Austin TX (KTBC) (720p),https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8
 FOX 9 ST Paul Minneapolis MN (KMSP) (720p),https://apollo.production-public.tubi.io/live/ac-kmsp.m3u8
+FOX 10 Phoenix AZ (KSAZ) (720p),https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8
+FOX 13 Salt Lake City UT (KSTU) (720p),https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
 FOX 13 Seattle WA (KCPQ) (720p),https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
 FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7],https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 FOX 26 Houston TX (KRIV) (720p),https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
@@ -5158,6 +5147,12 @@ KRCG-DT1 (720p),https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 KRDO News Colorado Springs CO (720p),https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
 Krem TV,https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 KRIS-DT1 (1080p),https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+KSBY News San Louis Obispo CA (720p),https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
+KSDK-DT1 (1080p),https://livevideo01.ksdk.com/hls/live/2014965/elvs/live.m3u8
+KSHB 41 (Kansas City MO) (720p),https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+KSMO-DT1 (720p),https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+KTHV CBS 11 (Little Rock AR),https://livevideo.tegnadigital.com/kthv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTHV/elvs/live.m3u8
+KTRK TV ABC 13 News (720p),https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 Kurdistan TV (720p) [Not 24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 Kurýr TV (1080p) [Not 24/7],https://stream-35.mazana.tv/jc2.jc.m3u8
 KVF (720p) [Not 24/7],https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
@@ -5316,6 +5311,7 @@ NBC 2 Tulsa OK (KJRH) (720p),https://apollo.production-public.tubi.io/live/ac-kj
 NBC 3 Sacramento CA (KCRA) (720p),https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
 NBC 5 Colorado Springs CO (KOAA) (720p),https://apollo.production-public.tubi.io/live/ac-koaa.m3u8
 NBC 5 Seattle WA (KING-DT1) (1080p),https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
+NBC 8 Salinas CA (KSBW) (720p),https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8
 NBC West (San Diego) (1080p) [Not 24/7],https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 NCI (1080p),https://pixa.cdn.easybroadcast.fr/nci/nci.isml/nci-audio_fre=128000-video=2500000.m3u8
 NCM Main Channel,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_001/playlist.m3u8
@@ -6082,6 +6078,7 @@ Zurquí TV (720p),https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpam
 К16 (Саров) (406p) [Not 24/7],http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 Кавказ 24 (Ставрополь),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 Калейдоскоп ТВ,https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
+КТК (1080p) [Not 24/7],https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 ЛДПР ТВ (1080p),http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Мир +2 (540p) [Not 24/7],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Мир +4 (540p) [Not 24/7],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
@@ -7233,7 +7230,6 @@ Kompas TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZ
 Krone.TV (360p),https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 Kruiskyk TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCwgzvE6tj56aYkCF8_65TKQ.m3u8
 KTN News (480p) [Not 24/7],https://ythls.armelin.one/channel/UCmqlO4sewQO97iCeakXTdaw.m3u8
-KTRK TV ABC 13 News (720p),https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 L'altro Corriere TV (720P),https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
 La Abeja,https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 La Iguana TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
@@ -7287,7 +7283,6 @@ Naxatra News (720p),https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 NBC 2 Orlando FL (WESH) (720p),https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
 NBC 5 Plattsburgh NY (WPTZ) (720p),https://apollo.production-public.tubi.io/live/ac-wptz.m3u8
 NBC 8 Lancaster PA (WGAL) (720p),https://apollo.production-public.tubi.io/live/ac-wgal.m3u8
-NBC 8 Salinas CA (KSBW) (720p),https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8
 NBC 12 Winston-Salem NC (WXII) (720p),https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
 NBC News NOW,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 NCTV (1080p),https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
@@ -7667,7 +7662,6 @@ KCPT-DT1 (720p),https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 KGTF-DT1 (PBS Guam),https://ythls.armelin.one/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8
 KITE Victers (Kerala) (720p) [Not 24/7],https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 KMOS-DT1 (720p),https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-KTOO 360TV 3 (FNX),https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 Leominster TV Educational (720p),http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
 LNKTV Education (1080p),http://80tv.lincoln.ne.gov/live/live.m3u8
 Los Angeles Local Television Channel 36 (1080p),https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
@@ -8121,6 +8115,7 @@ KKRtv (720p) [Not 24/7],http://stream.kkr.dk/live/kkr/playlist.m3u8
 KQSL Channel 8 (720p),https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 KSCE Vida Cristiana (360p),https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 KSTV Uganda (480p),https://readymedia.moderntv.cloud:8092/distribute/readymedia/KS_TV_stream_dc/5-20-hls/live.m3u8
+KTO (404p) [Not 24/7],https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 Kuriakos TV (1080p),https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 LGD TV (1080p),https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
 Life! Christian Broadcasting Network (360p),https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
@@ -8306,6 +8301,7 @@ TBN Baltia (1080p),http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 TBN East (720p),https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
 TBN España (576p),https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 TBN Inspire (720p),https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
+TBN Smile (480p),https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 TDV TV (240p),https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
 Tele Louange (1080p),https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 TeleBendicion (720p) [Not 24/7],https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
@@ -8751,6 +8747,7 @@ Teleplay Sureste (720p),https://teleplay.mediaflix.istream.mx/livestream/telepla
 Telerayo (1080p),https://s.emisoras.tv:8081/telerayo/index.m3u8
 TF1 (720p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 Thanthi One (1080p),https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7],http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
 This is Bulgaria HD (1080p),https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 Tica TV+ (288p),https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 Timeline,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
@@ -9064,6 +9061,7 @@ Just for Laughs Gags (1080p),https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
 Just for Laughs Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Juste pour Rire,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0ee8bde-7a09-45e2-b51d-4cf3012304cd
 Kalaignar Sirippoli (576p),http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+KSHB-DT3 (720p),https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 LOL Standup (1080p),https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
 LOL! Network,https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 More TV Sitcoms,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62d7dbcd-04ab-4ca8-ae91-0bf98c68d0d2
@@ -10312,6 +10310,7 @@ Francophonie24 (1080p),https://5421175365ea3.streamlock.net/live/smil:switch.smi
 History Channel (1080p),https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 Humanity Documentaries (720p),https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
 Kanal 7 Baltics (Latvia) (1080p),http://89.254.128.5:22280/duo7_hd/index.m3u8
+KTOO 360TV 3 (FNX),https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 La 2 (1080p),https://ztnr.rtve.es/ztnr/1688885.m3u8
 La 2 Canarias (720p),https://ztnr.rtve.es/ztnr/5468585.m3u8
 La 2 Catalunya (720p),https://ztnr.rtve.es/ztnr/3987218.m3u8
@@ -10482,6 +10481,7 @@ Kids;Religious,#genre#
 Christian Youth Channel (CYC) (1080p),http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 Dios Te Ve Kids (720p),https://s.emisoras.tv:8081/diostevekids/index.m3u8
 Koogi TV (1080p),https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+TBN Enlace,https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 
 Culture;Education,#genre#
 Çiftçi TV (1080p) [Not 24/7],http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
