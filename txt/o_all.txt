@@ -7732,7 +7732,7 @@ Africa TV 1 (720p),http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 Africa TV 2 (720p),http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 Africa TV3 (720p) [Not 24/7],http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 Aghapy TV (1080p) [Not 24/7],https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-Ahl-Alquran TV (360p),https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+Ahl-Alquran TV (360p),https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 Ahlou Mouride TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCuFSrdYq5td__h886cSTmVw.m3u8
 Ahlulbayt TV (1080p) [Not 24/7],http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 Akaal Channel (396p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8

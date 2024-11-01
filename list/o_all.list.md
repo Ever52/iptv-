@@ -411,7 +411,7 @@
 | 405 | AgroTV (404p) [Not 24/7] | [AgroTV (404p) [Not 24/7]](https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8) |
 | 406 | Aguacate TV (1080p) | [Aguacate TV (1080p)](https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8) |
 | 407 | Ahi TV Kirsehir (576p) | [Ahi TV Kirsehir (576p)](http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8) |
-| 408 | Ahl-Alquran TV (360p) | [Ahl-Alquran TV (360p)](https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8) |
+| 408 | Ahl-Alquran TV (360p) | [Ahl-Alquran TV (360p)](https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8) |
 | 409 | Ahlou Mouride TV (720p) [Not 24/7] | [Ahlou Mouride TV (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCuFSrdYq5td__h886cSTmVw.m3u8) |
 | 410 | Ahlulbayt TV (1080p) [Not 24/7] | [Ahlulbayt TV (1080p) [Not 24/7]](http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8) |
 | 411 | Ahora TV (720p) | [Ahora TV (720p)](https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8) |
@@ -10447,4 +10447,4 @@
 | 10441 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10442 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Oct 31 2024 08:11:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 01 2024 00:43:20 GMT+0000 (Coordinated Universal Time)**
