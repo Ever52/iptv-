@@ -5929,6 +5929,7 @@ TVM Internacional (480p) [Not 24/7],http://online.tvm.co.mz:1935/live/smil:Chann
 TVMarineret (1080p),http://sdream.info:8080/hls/livestream/index.m3u8
 TVMaster (720p),https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 TVMohelnice (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCr8xNHreYlR3gOjXnd82PBQ.m3u8
+TVN (720p),https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 TVNBN (720p),https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 TVNZ 1,https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 TVNZ 2,https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
@@ -7515,7 +7516,6 @@ TVídeoNews (720p) [Not 24/7],https://video01.logicahost.com.br/tvideonews/tvide
 TVM El Salvador,http://201.247.102.189/tmp_hls/stream/index.m3u8
 TVM News+,http://80.79.6.221:25461/smash/public/20
 TVMN (1080p),https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8
-TVN (720p),https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 TVN-Bulgaria (1080p),https://obs.friendshipchurch.eu/tvn/mystream.m3u8
 TVP,http://78.129.193.20/tsstreamer/TVP_SD.ts
 TVP Wilno (1080p),https://irylek.ct8.pl/stream/tvpwilno
@@ -8773,6 +8773,7 @@ TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVCARiB (720p) [Not 24/7],https://tvc.mediacaribstream.com:5443/LiveApp/streams/678996728477322762133253.m3u8
 TVCARiB Latino (720p) [Not 24/7],https://tvc.mediacaribstream.com:5443/LiveApp/streams/503041699392698464410277.m3u8
 TVJ (720p),https://rjr-tvj-geo.akamaized.net/hls/live/2041530/TVJ_GEO/1/streamPlaylist.m3u8
+TVMAX (720p),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 TVS Flashback Network (360p),https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 TVS Vintage Network (360p),https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 Univers TV (720p),https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
@@ -9790,7 +9791,6 @@ Turf Movil (720p),https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
 TV 2 Sport 1 (720p),https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 TVMatic Fight (720p),http://cdn.tvmatic.net/fight.m3u8
-TVMAX (720p),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 TVQ Sports (720p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 TVRI Sport (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 TVS Bowling Network (720p),https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
