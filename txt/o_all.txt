@@ -4548,7 +4548,6 @@ Ciudad Magazine (1080p),https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vo
 Ciudad Real TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCNxFBlUBOaI3iQW37T3hFww.m3u8
 Ciudad TV Resistencia (Chaco) (720p) [Not 24/7],http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 CiudadelaTV (614p) [Not 24/7],https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
-Clarity 4K (2160p),https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 Claro Televisión Dominicana (360p),https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 CLTV 36 (1080p) [Not 24/7],https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 CMM TV (1080p) [Not 24/7],https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
@@ -5884,6 +5883,7 @@ TV WTJMINAS (720p),https://video01.kshost.com.br/wladimir4773/wladimir4773/playl
 TV Zagora (576p),http://zagoratv.ddns.net:8080/tvzagora.m3u8
 TV Zapad (1080p) [Not 24/7],http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 TV Zdravkin (400p),http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+TV Zimbo (1080p),https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 TV-U Yamagata (Youtube) (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
 TVC Rio (1080p),https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 TVCom,https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
@@ -7388,6 +7388,7 @@ Rev'n (KCKS-LD7) (480p),https://cdn.igocast.com/channel7_hls/channel7_master.m3u
 RKB NEWS 24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
 RNN (720p) [Not 24/7],https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 Roze News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
+RSelvaTV,https://live.obslivestream.com/selvatv/index.m3u8
 RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 RT France (1080p),https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
