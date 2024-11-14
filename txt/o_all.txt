@@ -90,7 +90,6 @@ Alex Berlin (1080p) [Not 24/7],https://alex-stream.rosebud-media.de/live/alexliv
 Algérie TV2 (480p),https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 Alien Nation (1080p),https://livetv-fa.tubi.video/alien-nation/playlist.m3u8
 Alien Nation Canada (1080p),https://livetv-fa.tubi.video/alien-nation-canada/playlist.m3u8
-All The K-POP (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 Alle hassen Chris,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6e1e2792150007e0b2ff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5243-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4da2851-e246-4700-96b3-3b691764616a
 Almaya TV (720p),https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 Alqanat9 TV (1080p),https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
@@ -5607,7 +5606,6 @@ Tatai TV (1080p),https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.
 Tayba TV (1080p),https://mn-nl.mncdn.com/tayba/live/playlist.m3u8
 TBC 1 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8
 TBN TV (720p) [Not 24/7],https://live.suricloud.com/hls/tbntv/index.m3u8
-TBS (540p),https://tbs4.mov3.co/hls/tbs.m3u8
 TBS eFM (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 Tchaman TV (720p),https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
 TCS+ (480p) [Not 24/7],https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
@@ -9775,7 +9773,6 @@ Sports TV (720p),https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 SSC 1 (720p),https://af.ayassport.ir/hls2/ssc1.m3u8
 SSC Action Waleed (1080p) [Not 24/7],https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 Stadium (720p),https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
-Super Tennis (1080p),https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 T Sports 7 (720p),https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 TDM Sports Ch. 93 (720p),https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
