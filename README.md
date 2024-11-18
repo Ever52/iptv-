@@ -37,17 +37,17 @@
 | iptv.org stream China 112114 | <https://m3u.vodtv.cn/o_s_cn_112114.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_112114.txt> | [List for iptv.org stream China 112114](https://m3u.vodtv.cn/list/o_s_cn_112114.list) | rollback,18 |
 | iptv.org stream China CCTV | <https://m3u.vodtv.cn/o_s_cn_cctv.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://m3u.vodtv.cn/list/o_s_cn_cctv.list) | rollback,14 |
 | iptv.org stream China CGTN | <https://m3u.vodtv.cn/o_s_cn_cgtn.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://m3u.vodtv.cn/list/o_s_cn_cgtn.list) | rollback,6 |
-| epg.pw China | <https://m3u.vodtv.cn/cn.m3u> <br> <https://m3u.vodtv.cn/txt/cn.txt> | [List for epg.pw China](https://m3u.vodtv.cn/list/cn.list) | normal,376 |
+| epg.pw China | <https://m3u.vodtv.cn/cn.m3u> <br> <https://m3u.vodtv.cn/txt/cn.txt> | [List for epg.pw China](https://m3u.vodtv.cn/list/cn.list) | normal,374 |
 | epg.pw China National | <https://m3u.vodtv.cn/cn_n.m3u> <br> <https://m3u.vodtv.cn/txt/cn_n.txt> | [List for epg.pw China National](https://m3u.vodtv.cn/list/cn_n.list) | normal,8 |
 | epg.pw China Country | <https://m3u.vodtv.cn/cn_c.m3u> <br> <https://m3u.vodtv.cn/txt/cn_c.txt> | [List for epg.pw China Country](https://m3u.vodtv.cn/list/cn_c.list) | normal,104 |
 | epg.pw China Province | <https://m3u.vodtv.cn/cn_p.m3u> <br> <https://m3u.vodtv.cn/txt/cn_p.txt> | [List for epg.pw China Province](https://m3u.vodtv.cn/list/cn_p.list) | normal,34 |
-| epg.pw All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for epg.pw All](https://m3u.vodtv.cn/list/all.list) | normal,2196 |
+| epg.pw All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for epg.pw All](https://m3u.vodtv.cn/list/all.list) | normal,2201 |
 | qwerttvv/Beijing-IPTV IPTV Unicom | <https://m3u.vodtv.cn/q_bj_iptv_unicom.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_unicom.txt> | [List for qwerttvv/Beijing-IPTV IPTV Unicom](https://m3u.vodtv.cn/list/q_bj_iptv_unicom.list) | rollback,138 |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | <https://m3u.vodtv.cn/q_bj_iptv_unicom_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_unicom_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_unicom_m.list) | rollback,138 |
-| qwerttvv/Beijing-IPTV IPTV Mobile | <https://m3u.vodtv.cn/q_bj_iptv_mobile.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile](https://m3u.vodtv.cn/list/q_bj_iptv_mobile.list) | rollback,151 |
-| qwerttvv/Beijing-IPTV IPTV Mobile Multicast | <https://m3u.vodtv.cn/q_bj_iptv_mobile_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_mobile_m.list) | rollback,136 |
+| qwerttvv/Beijing-IPTV IPTV Mobile | <https://m3u.vodtv.cn/q_bj_iptv_mobile.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile](https://m3u.vodtv.cn/list/q_bj_iptv_mobile.list) | rollback,152 |
+| qwerttvv/Beijing-IPTV IPTV Mobile Multicast | <https://m3u.vodtv.cn/q_bj_iptv_mobile_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_mobile_m.list) | rollback,137 |
 
-Updated at **Sun Nov 17 2024 08:11:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 18 2024 00:43:26 GMT+0000 (Coordinated Universal Time)**
 
 ## 加速工具
 
