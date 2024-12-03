@@ -7192,7 +7192,7 @@ MNews (镜电视新闻台),https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXl
 Molina TV (1080p),http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 MSNBC (480p),https://tx1.nexgen.bz/MSNBC/index.m3u8
 MTV Uutiset (720p),https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-Nabaa TV (720p) [Not 24/7],http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+Nabaa TV (720p) [Not 24/7],https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
 Naftemporiki TV (1080p),https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 Naxatra News (720p),https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 NBC 2 Orlando FL (WESH) (720p),https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
