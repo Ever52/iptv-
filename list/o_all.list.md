@@ -6446,7 +6446,7 @@
 | 6440 | Radio Aktual (1080p) | [Radio Aktual (1080p)](https://vr1.radioaktual.si/hls/stream.m3u8) |
 | 6441 | Radio Albalad TV (720p) | [Radio Albalad TV (720p)](http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8) |
 | 6442 | Radio Alegria 98.5 FM (720p) | [Radio Alegria 98.5 FM (720p)](https://video.compuwebecuador.com:3880/stream/play.m3u8) |
-| 6443 | Radio Alkul TV (1080p) [Not 24/7] | [Radio Alkul TV (1080p) [Not 24/7]](https://ffs.gulfsat.com/AlkulTV/video.m3u8) |
+| 6443 | Radio Alkul TV (1080p) [Not 24/7] | [Radio Alkul TV (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCXUagbNx2e23ADuNWXnlSLw.m3u8) |
 | 6444 | Radio Ancón (720p) | [Radio Ancón (720p)](https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8) |
 | 6445 | Radio Birikina TV (720p) [Not 24/7] | [Radio Birikina TV (720p) [Not 24/7]](https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8) |
 | 6446 | Ràdio Bocairent TV (1080p) [Not 24/7] | [Ràdio Bocairent TV (1080p) [Not 24/7]](http://185.81.77.4/BocairentTV/index.m3u8) |
@@ -10476,4 +10476,4 @@
 | 10470 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10471 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Dec 05 2024 08:12:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 06 2024 00:42:44 GMT+0000 (Coordinated Universal Time)**
