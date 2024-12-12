@@ -7905,7 +7905,7 @@
 | 7899 | Telelima | [Telelima](https://mserver.latincable.net/TeleLima/index.m3u8) |
 | 7900 | TeleM (576p) | [TeleM (576p)](https://tv.streambox.ro/hls/telem/index.m3u8) |
 | 7901 | TeleM Botosani (540p) [Not 24/7] | [TeleM Botosani (540p) [Not 24/7]](http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8) |
-| 7902 | Telemadrid (720p) | [Telemadrid (720p)](https://telemadrid-23.secure2.footprint.net/master.m3u8) |
+| 7902 | Telemadrid (720p) | [Telemadrid (720p)](https://telemadrid-23-secure2.akamaized.net/master.m3u8) |
 | 7903 | Telemadrid Internacional (720p) | [Telemadrid Internacional (720p)](https://new-international-23.secure2.footprint.net/index.m3u8) |
 | 7904 | TeleMajg (480p) | [TeleMajg (480p)](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) |
 | 7905 | Telemantova (1080p) | [Telemantova (1080p)](https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8) |
@@ -10485,4 +10485,4 @@
 | 10479 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 10480 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Dec 11 2024 08:12:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 12 2024 00:42:48 GMT+0000 (Coordinated Universal Time)**
