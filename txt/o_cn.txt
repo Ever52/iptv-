@@ -48,7 +48,7 @@ Xinjiang TV 8,http://49.113.179.174:4022/udp/238.125.3.181:5140
 Xinjiang TV 9,http://49.113.179.174:4022/udp/238.125.7.153:5140
 Xinjiang TV 12,http://49.113.179.174:4022/udp/238.125.3.185:5140
 Xizang TV Tibetan,http://49.113.179.174:4022/udp/238.125.3.94:5140
-Yanbian TV 1,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
+Yanbian TV 1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 Yicai TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
 Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 万州三峡移民 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
@@ -495,7 +495,7 @@ QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 Weihai Public Channel,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
-Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
+Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 РТР Планета Азия,https://player.smotrim.ru/iframe/stream/live_id/63254
 和政电视台,http://117.156.28.119/270000001111/1110000149/index.m3u8
 广西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
