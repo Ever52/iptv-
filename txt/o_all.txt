@@ -1246,33 +1246,7 @@ Nudu,https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 Nurse Jackie,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c7a07e03a00088de834/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3872-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6b94fdc-baed-40a3-bf48-79f151084f30
 Oasis TV (720p) [Not 24/7],https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 Oepm TV (720p),https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
-OF-TV Offenbach (720p),https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 Ogün TV (360p),https://s01.vpis.io/ogun/ogun.m3u8
-Oh Muang Lao TV (720p),https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-OIK TV (720p),https://streamer05.low-latency.cz/oiktv/index.m3u8
-Oizmendi Telebista (404p) [Not 24/7],https://5940924978228.streamlock.net/8161/8161/master.m3u8
-OK4 (720p),https://s.ok54.de/abr_ok4/live/playlist.m3u8
-OK54 (720p),https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
-OK Dessau (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-OK Flensburg (576p),https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-OK Fulda (720p),https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-OK Gießen (360p),https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-OK Kaiserslautern (720p),https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-OK Kassel (720p),https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-OK Kiel (576p),https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-OK Magdeburg (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-OK Mainz (720p),https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
-OK Merseburg-Querfurt (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-OK Rhein-Main (576p),https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-OK RheinLokal (Worms) (720p),https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
-OK Salzwedel (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-OK Stendal (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-OK Suedwestpfalz (720p),https://s.ok54.de/okswp/test/playlist.m3u8
-OK Trier (720p),https://s.ok54.de/ott/webstream/playlist.m3u8
-OK Weinstraße (Neustadt) (432p),https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-OK Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-OK-TV Ludwigshafen (720p),https://s.ok54.de/oklu/livestream/playlist.m3u8
-Okto TV (1080p),https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 Olay Türk TV Kayseri (720p),https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 oldenburg eins (1080p) [Not 24/7],https://oeins.de/live/studio.m3u8
 Oldies Hits (360p),https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
@@ -5098,7 +5072,32 @@ Occidental TV (1080p),https://59ce1298bfb98.streamlock.net/occidentaltv/occident
 Oceanside Community Television (KOCT) Community Channel 18 (720p),https://securestream6.champds.com/hlssstc/KOCTCALIVE/KOCTCALIVE.m3u8
 Odeon 24 (288p),https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 OESC TV (1080p),https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+OF-TV Offenbach (720p),https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+Oh Muang Lao TV (720p),https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+OIK TV (720p),https://streamer05.low-latency.cz/oiktv/index.m3u8
+OK4 (720p),https://s.ok54.de/abr_ok4/live/playlist.m3u8
+OK54 (720p),https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+OK Dessau (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+OK Flensburg (576p),https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+OK Fulda (720p),https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+OK Gießen (360p),https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+OK Kaiserslautern (720p),https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+OK Kassel (720p),https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+OK Kiel (576p),https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+OK Magdeburg (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+OK Mainz (720p),https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+OK Merseburg-Querfurt (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+OK Rhein-Main (576p),https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+OK RheinLokal (Worms) (720p),https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+OK Salzwedel (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+OK Stendal (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+OK Suedwestpfalz (720p),https://s.ok54.de/okswp/test/playlist.m3u8
 OK TeVe (720p) [Not 24/7],https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+OK Trier (720p),https://s.ok54.de/ott/webstream/playlist.m3u8
+OK Weinstraße (Neustadt) (432p),https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+OK Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+OK-TV Ludwigshafen (720p),https://s.ok54.de/oklu/livestream/playlist.m3u8
+Okto TV (1080p),https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 Oman TV (1080p),https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 Omega Channel (1080p),http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 Omroep Almere (1080p),https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8
@@ -9889,6 +9888,7 @@ NTA International (576p) [Not 24/7],https://api.visionip.tv/live/ASHTTP/visiontv
 NYXT (1080p),https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 Obosso TV (1080p) [Not 24/7],https://obossobroadcast.fr/otv/obossotv/playlist.m3u8
 Odisha TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8
+Oizmendi Telebista (404p) [Not 24/7],https://5940924978228.streamlock.net/8161/8161/master.m3u8
 One Nation TV (720p) [Not 24/7],https://endour.net/hls/One_nationtv/index.m3u8
 PLTV (614p),https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
 Pluto TV Cine Suspenso (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
