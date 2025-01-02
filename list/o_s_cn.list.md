@@ -506,5 +506,9 @@
 | 500 | 龙口新闻综合 (576p) | [龙口新闻综合 (576p)](http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8) |
 | 501 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 502 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
+| 503 | STV News and General | [STV News and General](http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 504 | STV City | [STV City](http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 505 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.183.141.194:8001/hls/54/index.m3u8) |
+| 506 | Hunan Entertainment Channel | [Hunan Entertainment Channel](http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8) |
 
-Updated at **Thu Jan 02 2025 00:39:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 02 2025 08:11:04 GMT+0000 (Coordinated Universal Time)**
