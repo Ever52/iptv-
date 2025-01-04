@@ -2770,34 +2770,34 @@ TVP Rozrywka (1080p),https://irylek.ct8.pl/stream/tvprozrywka
 TVPlus Suceava (576p),http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 TVR (1080p) [Not 24/7],https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 TVR Sicilia HD (1080p) [Not 24/7],https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
-TVRI Aceh (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-TVRI Bali (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-TVRI Bangka Belitung (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-TVRI Bengkulu (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-TVRI DKI Jakarta (720p) [Not 24/7],http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-TVRI Gorontalo (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-TVRI Jambi (720p) [Not 24/7],http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-TVRI Jawa Barat (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-TVRI Jawa Tengah (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-TVRI Jawa Timur (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-TVRI Kalimantan Barat (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-TVRI Kalimantan Selatan (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-TVRI Kalimantan Tengah (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-TVRI Kalimantan Timur (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-TVRI Lampung (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-TVRI Maluku (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-TVRI Nusa Tenggara Barat (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-TVRI Nusa Tenggara Timur (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-TVRI Papua (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-TVRI Riau (720p) [Not 24/7],http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-TVRI Sulawesi Barat (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-TVRI Sulawesi Selatan (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-TVRI Sulawesi Tengah (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-TVRI Sulawesi Tenggara (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-TVRI Sumatera Barat (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-TVRI Sumatera Selatan (480p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+TVRI Aceh (720p),https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+TVRI Bali (480p),https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+TVRI Bangka Belitung (480p),https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+TVRI Bengkulu (480p),https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+TVRI DKI Jakarta (720p) [Not 24/7],https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+TVRI Gorontalo (480p),https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+TVRI Jambi (720p) [Not 24/7],https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+TVRI Jawa Barat (480p),https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+TVRI Jawa Tengah (720p),https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+TVRI Jawa Timur (720p),https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+TVRI Kalimantan Barat (480p),https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+TVRI Kalimantan Selatan (720p),https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+TVRI Kalimantan Tengah (480p),https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+TVRI Kalimantan Timur (720p),https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+TVRI Lampung (720p),https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+TVRI Maluku (480p),https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+TVRI Nusa Tenggara Barat (720p),https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+TVRI Nusa Tenggara Timur (480p),https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+TVRI Papua (480p),https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+TVRI Riau (720p) [Not 24/7],https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+TVRI Sulawesi Barat (720p),https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+TVRI Sulawesi Selatan (480p),https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+TVRI Sulawesi Tengah (720p),https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+TVRI Sulawesi Tenggara (480p),https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+TVRI Sumatera Barat (720p),https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+TVRI Sumatera Selatan (480p),https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 TVRI World,https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-TVRI Yogyakarta (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+TVRI Yogyakarta (720p),https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 TVRS (576p) [Not 24/7],http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 TVS (540p) [Not 24/7],https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 TVS Frontier Network (360p),https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
@@ -5177,6 +5177,7 @@ OOG TV (720p),https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3
 Open TV (576p),http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 Opinião Play TV (360p),https://livefocamundo.com:8081/opiniaoplay/index.m3u8
 Orange TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
+ORF 1 HD (720p),https://s6.hopslan.com/orfx12/index.m3u8?token=cf047287f41e1ab2866bf517eb314b80f26ea1c4-9d0c133dedf3dd368c452f391b3bc18c-1733949261-173393
 Oroszlányi Városi Televízió (720p),https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 ORT (480p) [Not 24/7],https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 ORTB TV (720p) [Not 24/7],https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
@@ -5775,7 +5776,7 @@ TVR Canal 11 Curicó (1080p),https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.
 TVR International (1080p),https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 TVR Moldova (720p) [Not 24/7],https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 TVReus (720p) [Not 24/7],https://eu1.servers10.com:8081/8166/index.m3u8
-TVRI Nasional (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+TVRI Nasional (720p),https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 TVS Encarnación (720p),https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 TVS Select Network (720p),https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
 TVS Television Network (480p),https://bozztv.com/gusa/gusa-tvstn/index.m3u8
@@ -9704,7 +9705,7 @@ Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
 TV 2 Sport 1 (720p),https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 TVMatic Fight (720p),http://cdn.tvmatic.net/fight.m3u8
 TVQ Sports (720p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-TVRI Sport (720p),http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+TVRI Sport (720p),https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 TVS Bowling Network (720p),https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 TVS Boxing (360p),https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 TVS Classic Sports (360p),https://bozztv.com/gusa/gusa-tvs/index.m3u8
