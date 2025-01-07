@@ -26,7 +26,7 @@
 | fanmingming/live domainv6(Invalid) | <https://m3u.vodtv.cn/fmml_dv6.m3u> <br> <https://m3u.vodtv.cn/txt/fmml_dv6.txt> | [List for fanmingming/live domainv6(Invalid)](https://m3u.vodtv.cn/list/fmml_dv6.list) | rollback,100 |
 | ~~fanmingming/live v6~~(Backup Only) | <https://m3u.vodtv.cn/fmml_v6.m3u> <br> <https://m3u.vodtv.cn/txt/fmml_v6.txt> | [List for ~~fanmingming/live v6~~(Backup Only)](https://m3u.vodtv.cn/list/fmml_v6.list) | rollback, |
 | YueChan-Live IPTV | <https://m3u.vodtv.cn/ycl_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/ycl_iptv.txt> | [List for YueChan-Live IPTV](https://m3u.vodtv.cn/list/ycl_iptv.list) | rollback,70 |
-| YanG-1989 Gather | <https://m3u.vodtv.cn/y_g.m3u> <br> <https://m3u.vodtv.cn/txt/y_g.txt> | [List for YanG-1989 Gather](https://m3u.vodtv.cn/list/y_g.list) | rollback,378 |
+| YanG-1989 Gather | <https://m3u.vodtv.cn/y_g.m3u> <br> <https://m3u.vodtv.cn/txt/y_g.txt> | [List for YanG-1989 Gather](https://m3u.vodtv.cn/list/y_g.list) | rollback,376 |
 | YanG_1989 Adult | <https://m3u.vodtv.cn/y_a.m3u> <br> <https://m3u.vodtv.cn/txt/y_a.txt> | [List for YanG_1989 Adult](https://m3u.vodtv.cn/list/y_a.list) | update failed |
 | joevess/IPTV home | <https://m3u.vodtv.cn/j_home.m3u> <br> <https://m3u.vodtv.cn/txt/j_home.txt> | [List for joevess/IPTV home](https://m3u.vodtv.cn/list/j_home.list) | update failed |
 | joevess/IPTV iptv | <https://m3u.vodtv.cn/j_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/j_iptv.txt> | [List for joevess/IPTV iptv](https://m3u.vodtv.cn/list/j_iptv.list) | update failed |
@@ -47,7 +47,7 @@
 | qwerttvv/Beijing-IPTV IPTV Mobile | <https://m3u.vodtv.cn/q_bj_iptv_mobile.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile](https://m3u.vodtv.cn/list/q_bj_iptv_mobile.list) | rollback,150 |
 | qwerttvv/Beijing-IPTV IPTV Mobile Multicast | <https://m3u.vodtv.cn/q_bj_iptv_mobile_m.m3u> <br> <https://m3u.vodtv.cn/txt/q_bj_iptv_mobile_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](https://m3u.vodtv.cn/list/q_bj_iptv_mobile_m.list) | rollback,135 |
 
-Updated at **Mon Jan 06 2025 08:12:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 07 2025 00:40:50 GMT+0000 (Coordinated Universal Time)**
 
 ## 加速工具
 
