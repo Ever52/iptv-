@@ -1276,27 +1276,15 @@ OUTtv Proud,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Oxi TV (720p),https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 Oxygen Music (1080p),https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 Oxygen True Crime Archives,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654930a8346f420008d3b0b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7818-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedc1ef5-3e5f-4815-b46c-fcf59a9d9b9b
-P2M TV (720p),https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 Pac 12 Insider,https://pac12-firetv.amagi.tv/playlist.m3u8
-Paci Contemporary Channel (720p),https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 Pacific Blue,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad5bd283aa40008064568/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3873-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76852c45-b60e-4391-be78-4ff8ba5ee0ba
-Padang TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
-Padre Pio TV,http://80.79.6.221:25461/smash/public/8
-Pal TV (720p) [Not 24/7],https://v3.siar.us/paltv/live/playlist.m3u8
-Palm Beaches TV (720p),https://live.feed.thepalmbeaches.tv/index.m3u8
 Palmar TV,https://vsrv2.az-streamingserver.com:3255/live/palmartvlive.m3u8
-Pamukkale TV (614p),http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
 Paragliding TV,https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8
-Paras TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC6E1pvhGa55AaZ-svF70ViA.m3u8
-Pardesi TV (720p),http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 Parker Lewis – Der Coole von der Schule,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adbe0473a54000846ca0c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3874-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d3c8c3-69fd-4245-a925-f82b3b8c0e03
 Parker Lewis Der Coole von der Schule,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adbe0473a54000846ca0c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f7-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2a157355-a947-4265-90c9-d0d3a72d7e67
-Patrika Rajashtan (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWk-7Yosyvzln9ZzJg8BvVg.m3u8
-Pauta (720p),https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
+Pars,https://parshls.wns.live/hls/stream.m3u8
 Paw Patrol,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3ec626dc1900078e9f26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6615-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=036f3618-f9a5-4a4b-ba27-2cb712a7f255
-Payam TV (720p) [Not 24/7],https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
-Payam-e-Afghan TV (480p) [Not 24/7],https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-Payame Aramesh TV (720p),https://hls.keshishhamid.live/hls/stream.m3u8
+Payam Javan TV (720p) [Not 24/7],https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 PBS Antiques Roadshow,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636c2b3c55d2e700074105c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=45ec09d8-36de-4581-9848-35cbe70a0eb0
 PBS KET2 (720p),https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 PBS KET KY (480p),https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
@@ -5151,17 +5139,21 @@ Oviedo TV (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/oviedotv/oviedo
 P3tv (720p) [Not 24/7],http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 Pacific Coast TV HMB Coastside Channel 27 (720p),https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Pacific Coast TV MWSD Channel 26 (720p),https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Padang TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
+Pal TV (720p) [Not 24/7],https://v3.siar.us/paltv/live/playlist.m3u8
 Palm Springs Community Television (720p),https://edge-f.swagit.com/live/palmspringsca/live-1-a/playlist.m3u8
+Pamukkale TV (614p),http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
 Panambi Digital TV (480p) [Not 24/7],https://59ce1298bfb98.streamlock.net/panambi/panambi/playlist.m3u8
 Panamericana TV (1080p) [Not 24/7],https://cdnhd.iblups.com/hls/ptv5.m3u8
+Panavisión (1080p),https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 Panc TV (720p) [Not 24/7],https://panel.host-live.com:19360/81500/81500.m3u8
 Pannon RTV (648p),https://stream.nmih.hu:4102/live.m3u8
 Paradise TV (720p),https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 Parnian TV (720p),https://live2.parnian.tv/hls/.m3u8
-Pars,https://parshls.wns.live/hls/stream.m3u8
 Partenope TV (1080p),https://streamlive.arcapuglia.it:8080/live/partenope/index.m3u8
 PAT La Paz (720p) [Not 24/7],https://w8.redpat.tv:7777/play/120/index.m3u8
 PAT Santa Cruz (720p) [Not 24/7],https://w8.redpat.tv:7777/play/110/index.m3u8
+Payam-e-Afghan TV (480p) [Not 24/7],https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 PBS America (720p),https://pbs-samsunguk.amagi.tv/playlist.m3u8
 Persiana Latino (720p),https://latinohls.persiana.live/hls/stream.m3u8
 Persiana Two (720p),https://twohls.persiana.live/hls/stream.m3u8
@@ -6343,9 +6335,10 @@ One Adria (1080p),https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
 OneRadio TV (1080p) [Not 24/7],https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 Órbita FM (720p),https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 Oxigeno TV (360p) [Not 24/7],https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-Panavisión (1080p),https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+P2M TV (720p),https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 Panik TV (1080p),https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 Panorama FM (1080p),https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+Pauta (720p),https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
 Persiana 4Kurd,https://4kuhls.persiana.live/hls/stream.m3u8
 Persiana Music,https://musichls.persiana.live/hls/stream.m3u8
 Persiana Rap,https://raphls.persiana.live/hls/stream.m3u8
@@ -7243,6 +7236,8 @@ Palestine Today (480p),https://live.paltodaytv.com/paltv/live/playlist.m3u8
 Palitra News (480p) [Not 24/7],https://live.palitranews.ge/hls/palitratv/index.m3u8
 Panorama TV (720p) [Not 24/7],http://198.244.188.94/panorama/livestream/playlist.m3u8
 Paralelo 20 650 AM (1080p) [Not 24/7],https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
+Patrika Rajashtan (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWk-7Yosyvzln9ZzJg8BvVg.m3u8
+Payam TV (720p) [Not 24/7],https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 PBO Digital (720p) [Not 24/7],https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 PDS Radio-TV Digital (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/pdstv/pdstv/playlist.m3u8
 Phoenix InfoNews Channel (凤凰卫视资讯) (1080p),https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
@@ -8156,9 +8151,12 @@ Omega (1080p),https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live
 Omid Javedan (720p) [Not 24/7],http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 ONE-TV (720p) [Not 24/7],https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
 Pacis TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkKVUyOqvKk1W-QadPy_WHQ.m3u8
+Padre Pio TV,http://80.79.6.221:25461/smash/public/8
 Paraíso TV (720p),https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
+Paras TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC6E1pvhGa55AaZ-svF70ViA.m3u8
 Parole di Vita (720p) [Not 24/7],https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
 Parole Parlée TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8
+Payame Aramesh TV (720p),https://hls.keshishhamid.live/hls/stream.m3u8
 Payvand TV (720p) [Not 24/7],https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 Peace TV Albanian (360p) [Not 24/7],http://82.114.67.178:8081/hls/PeaceTV.m3u8
 Pemptousia TV (1080p) [Not 24/7],https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
@@ -8669,8 +8667,8 @@ One TV Asia (576p),http://210.210.155.37/uq2663/h/h143/index.m3u8
 OXIR TV (720p),https://hls.oxir.live/hls/stream.m3u8
 Oxygen East,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 Panc TV Peru (1080p),https://panel.host-live.com:19360/80780/80780.m3u8
+Passion Novelas,https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
 Passione Lotto (300p),http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
-Payam Javan TV (720p) [Not 24/7],https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 People are Awesome,https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 Persiana Turkiye,https://turkhls.persiana.live/hls/stream.m3u8
 Play Television (720p),https://vivo.solumedia.com:19360/playtv/playtv.m3u8
@@ -8986,7 +8984,6 @@ Nosey Steve Wilkos,https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/
 Novela Channel (720p) [Not 24/7],https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 Novelas con la abuela,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
 Novelisima,https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-Passion Novelas,https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
 Pluto TV Ana y los 7 (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 Pluto TV Archivos Forenses (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 Pluto TV Aventura (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -9948,6 +9945,8 @@ Olelo Community Media Channel 53 (720p),https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUk
 Oman Althakafia (1080p),https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 One Nation TV (720p) [Not 24/7],https://endour.net/hls/One_nationtv/index.m3u8
 Orler TV (420p) [Not 24/7],https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+Paci Contemporary Channel (720p),https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+Pardesi TV (720p),http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 PLTV (614p),https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
 Pluto TV Cine Suspenso (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 Presumiendo México (720p),https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
@@ -10445,6 +10444,7 @@ Love in Venice (480p),https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinve
 Maah TV (720p) [Not 24/7],https://hls.maahtv.live/hls/stream.m3u8
 Maldives TV (608p),https://live.maldivestv.mv/hls/stream/index.m3u8
 NOTV New Orleans TV (720p),http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+Palm Beaches TV (720p),https://live.feed.thepalmbeaches.tv/index.m3u8
 Pluto TV Animaux,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=754cd30f-6a34-42d3-9e06-63128a8e07e3
 Pluto TV Histoire,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20
 Pluto TV Inside,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055174-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=487dd86d-4b70-41e0-bab7-33de0eda4283
