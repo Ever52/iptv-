@@ -122,7 +122,7 @@
 | 116 | Yicai TV | [Yicai TV](http://49.113.179.174:4022/udp/238.125.0.165:5140) |
 | 117 | Zarok TV Sorani (720p) | [Zarok TV Sorani (720p)](https://zindisorani.zaroktv.com.tr/hls/stream.m3u8) |
 | 118 | Zhejiang TV International | [Zhejiang TV International](https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8) |
-| 119 | РТР Планета Азия | [РТР Планета Азия](https://player.smotrim.ru/iframe/stream/live_id/63254) |
+| 119 | РТР Планета Азия | [РТР Планета Азия](https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363) |
 | 120 | 万州三峡移民 (576p) [Not 24/7] | [万州三峡移民 (576p) [Not 24/7]](http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8) |
 | 121 | 万州影视 (576p) [Not 24/7] | [万州影视 (576p) [Not 24/7]](http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8) |
 | 122 | 万州科教 (576p) | [万州科教 (576p)](http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8) |
@@ -546,4 +546,4 @@
 | 540 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 541 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Jan 24 2025 00:38:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 24 2025 08:11:28 GMT+0000 (Coordinated Universal Time)**
