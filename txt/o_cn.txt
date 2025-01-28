@@ -36,7 +36,7 @@ Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
 Fusung News TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
 HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
 Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
+Nei Monggol TV,http://1.183.141.194:8001/hls/55/index.m3u8
 Shaanxi Agroforestry Satellite TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
 TV5Monde Pacifique (1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 TVE Internacional Europe-Asia,https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
@@ -494,7 +494,7 @@ Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 Weihai Public Channel,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
@@ -573,7 +573,7 @@ Outdoor,#genre#
 Sihai Fishing Channel,http://49.113.179.174:4022/udp/238.125.2.172:5140
 
 General;News,#genre#
-STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 
 Shop,#genre#
 Ugo Shop TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
